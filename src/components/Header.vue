@@ -216,7 +216,7 @@
                                         <i class="fa fa-hospital-o"></i>
                                     </div>
                                     <div class="header-content">
-                                        <h3>Number 1 Hospital</h3>
+                                        <h3>Number 2 Hospital</h3>
                                         <p>In United States</p>
                                     </div>
                                 </div>
