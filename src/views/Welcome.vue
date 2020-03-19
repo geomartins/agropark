@@ -22,11 +22,12 @@
                                         </div>
                                         <div class="featured-content">
                                             <div class="featured-title">
-                                                <h5>Quality & Safety</h5>
+                                                <h5>Who we are</h5>
                                             </div>
                                             <div class="featured-desc">
-                                                <p>Our Delmont hospital utilizes state-of-the-art technology and employs a team of true experts.</p>
-                                                <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-15" href="#">VIEW MORE</a>
+                                                <p>Agro Park Development Company Limited is primarily a farm management company</p>
+                                                <router-link to="/about" tag="a" class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-15"> VIEW MORE </router-link>
+                                                <!-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-15" href="#">VIEW MORE</a> -->
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->

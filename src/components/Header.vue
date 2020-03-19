@@ -86,18 +86,18 @@
                 <div class="container">
                     <div class="ttm-topbar-content">
                         <ul class="top-contact text-left">
-                            <li><i class="themifyicon ti-location-pin"></i>234 Triumph, Los Angeles, California, US</li>
-                            <li><i class="themifyicon ti-timer"></i>Mon - Sat 8.00 - 18.00. Sunday CLOSED</li>
+                            <li><i class="themifyicon ti-location-pin"></i> 18, Udi Street, Osborne Foreshore, Ikoyi Lagos </li>
+                            <li><i class="themifyicon ti-timer"></i>Mon - Fri 8.00 - 17.00</li>
                         </ul>
                         <div class="topbar-right text-right">
                             <div class="ttm-social-links-wrapper list-inline">
                                 <ul class="social-icons">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a>
+                                    <li><a href="https://web.facebook.com/agroparkng?_rdc=1&_rdr"><i class="fa fa-facebook"></i></a>
                                     </li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a>
+                                    <li><a href="https://twitter.com/agroparkng"><i class="fa fa-twitter"></i></a>
                                     </li>
                                     
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                                    <li><a href="https://www.instagram.com/agroparkng/"><i class="fa fa-instagram"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -168,7 +168,7 @@
                                                      <router-link  tag="li" to='/partners' ><a>Partners</a></router-link>
                                                      <router-link  tag="li" to='/gallery' ><a>Gallery</a></router-link>
                                                      <router-link  tag="li" to='/bulletin' ><a>Bulletin</a></router-link>
-                                                     <router-link  tag="li" to='/bronchure' ><a>Bronchure</a></router-link>
+                                                     <router-link  tag="li" to='/brochure' ><a>Brochure</a></router-link>
                                                      <router-link  tag="li" to='/faq' ><a>FAQ</a></router-link>
                                                      <router-link  tag="li" to='/testimonials' ><a>Testimonials</a></router-link>
                                                      <router-link  tag="li" to='/graduate-trainee' ><a>Graduate Trainee</a></router-link>
