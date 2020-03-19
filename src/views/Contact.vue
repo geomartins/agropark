@@ -38,51 +38,51 @@
                         <div class="ttm_single_image-wrapper mb-25">
                             <img class="img-fluid" src="images/single-img-six.jpg" alt="">
                         </div><!-- ttm_single_image-wrapper end -->
-                        <h4>New York Office</h4>
+                        <h4>Ikoyi Office</h4>
                         <div class="sep_holder_box width-100">
                             <span class="sep_holder"><span class="sep_line"></span></span>
                             <span class="sep_holder"><span class="sep_line"></span></span>
                         </div>
                         <ul class="ttm_contact_widget_wrapper">
-                            <li><i class="ttm-textcolor-skincolor ti ti-location-pin"></i>85455 Stonehill Lane Victoria, Apt 826,<br>United State</li>
-                            <li><i class="ttm-textcolor-skincolor ti ti-comment"></i><a href="mailto:info@domainname.com">info@domainname.com</a></li>
-                            <li><i class="ttm-textcolor-skincolor ti ti-mobile"></i>(+01) 123 456 7890</li>
+                            <li><i class="ttm-textcolor-skincolor ti ti-location-pin"></i>18, Udi Street, Osborne Foreshore, <br>Ikoyi Lagos</li>
+                            <li><i class="ttm-textcolor-skincolor ti ti-comment"></i><a href="mailto:info@agropark.ng">info@agropark.ng</a></li>
+                            <li><i class="ttm-textcolor-skincolor ti ti-mobile"></i>+234 906 282 2257</li>
                         </ul>
-                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-10" href="#">LEARN MORE</a>
+                        <!-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-10" href="#">LEARN MORE</a> -->
                     </div>
                     <div class="col-md-4 ttm-box-col-wrapper">
                         <!-- ttm_single_image-wrapper -->
                         <div class="ttm_single_image-wrapper mb-25">
                             <img class="img-fluid" src="images/single-img-seven.jpg" alt="">
                         </div><!-- ttm_single_image-wrapper end -->
-                        <h4>Hampshire Office</h4>
+                        <h4>Omole Office</h4>
                         <div class="sep_holder_box width-100">
                             <span class="sep_holder"><span class="sep_line"></span></span>
                             <span class="sep_holder"><span class="sep_line"></span></span>
                         </div>
                         <ul class="ttm_contact_widget_wrapper">
-                            <li><i class="ttm-textcolor-skincolor ti ti-location-pin"></i>85455 Stonehill Lane Victoria, Apt 826,<br>United State</li>
-                            <li><i class="ttm-textcolor-skincolor ti ti-comment"></i><a href="mailto:info@domainname.com">info@domainname.com</a></li>
-                            <li><i class="ttm-textcolor-skincolor ti ti-mobile"></i>(+01) 123 456 7890</li>
+                            <li><i class="ttm-textcolor-skincolor ti ti-location-pin"></i>Suite 201, Celia's Place, Plot 413b, Omofade Crescent, Omole Phase 1, Ikeja Lagos</li>
+                            <li><i class="ttm-textcolor-skincolor ti ti-comment"></i><a href="mailto:info@agropark.ng">info@agropark.ng</a></li>
+                            <li><i class="ttm-textcolor-skincolor ti ti-mobile"></i>+234 701 212 1096</li>
                         </ul>
-                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-10" href="#">LEARN MORE</a>
+                        <!-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-10" href="#">LEARN MORE</a> -->
                     </div>
                     <div class="col-md-4 ttm-box-col-wrapper">
                         <!-- ttm_single_image-wrapper -->
                         <div class="ttm_single_image-wrapper mb-25">
                             <img class="img-fluid" src="images/single-img-eight.jpg" alt="">
                         </div><!-- ttm_single_image-wrapper end -->
-                        <h4>Pennsylvania Office</h4>
+                        <h4>London Office</h4>
                         <div class="sep_holder_box width-100">
                             <span class="sep_holder"><span class="sep_line"></span></span>
                             <span class="sep_holder"><span class="sep_line"></span></span>
                         </div>
                         <ul class="ttm_contact_widget_wrapper">
-                            <li><i class="ttm-textcolor-skincolor ti ti-location-pin"></i>85455 Stonehill Lane Victoria, Apt 826,<br>United State</li>
+                            <li><i class="ttm-textcolor-skincolor ti ti-location-pin"></i>Kemp House 152-160 City Road, London <br> EC1V 2NX</li>
                             <li><i class="ttm-textcolor-skincolor ti ti-comment"></i><a href="mailto:info@domainname.com">info@domainname.com</a></li>
                             <li><i class="ttm-textcolor-skincolor ti ti-mobile"></i>(+01) 123 456 7890</li>
                         </ul>
-                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-10" href="#">LEARN MORE</a>
+                        <!-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-10" href="#">LEARN MORE</a> -->
                     </div>
                 </div><!-- row end -->
                 <div class="row pt-60 res-991-pt-0">
@@ -134,27 +134,27 @@
                             <div class="social-icons circle social-hover">
                                 <div class="ttm-socialbox-links-wrapper row">
                                     <div class="ttm-socialbox-i-wrapper col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <a class="tooltip-top ttm-socialbox-icon-link-twitter" target="_blank" href="#" data-tooltip="Twitter">
+                                        <a class="tooltip-top ttm-socialbox-icon-link-twitter" target="_blank" href="https://twitter.com/agroparkng" data-tooltip="Twitter">
                                             <i class="fa fa-twitter" aria-hidden="true"></i>
                                             <span class="ttm-link">twitter</span>
                                         </a>
                                     </div>
-                                    <div class="ttm-socialbox-i-wrapper col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                    <!-- <div class="ttm-socialbox-i-wrapper col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                         <a class="tooltip-top ttm-socialbox-icon-link-gplus" target="_blank" href="#" data-tooltip="Google+">
                                             <i class="fa fa-google-plus" aria-hidden="true"></i>
                                             <span class="ttm-link">gplus</span>
                                         </a>
-                                    </div>
+                                    </div> -->
                                     <div class="ttm-socialbox-i-wrapper col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <a class="tooltip-top ttm-socialbox-icon-link-facebook" target="_blank" href="#" data-tooltip="Facebook">
+                                        <a class="tooltip-top ttm-socialbox-icon-link-facebook" target="_blank" href="https://web.facebook.com/agroparkng?_rdc=1&_rdr" data-tooltip="Facebook">
                                             <i class="fa fa-facebook" aria-hidden="true"></i>
                                             <span class="ttm-link">facebook</span>
                                         </a>
                                     </div>
                                     <div class="ttm-socialbox-i-wrapper col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <a class="tooltip-top ttm-socialbox-icon-link-twitter" target="_blank" href="#" data-tooltip="Twitter">
-                                            <i class="fa fa-twitter" aria-hidden="true"></i>
-                                            <span class="ttm-link">twitter</span>
+                                        <a class="tooltip-top ttm-socialbox-icon-link-instagram" target="_blank" href="https://www.instagram.com/agroparkng/" data-tooltip="Instagram">
+                                            <i class="fa fa-instagram" aria-hidden="true"></i>
+                                            <span class="ttm-link">instagram</span>
                                         </a>
                                     </div>
                                 </div>
@@ -170,8 +170,8 @@
                         <div class="ttm-timelistbox-wrapper pt-10 res-991-mt-50">
                             <div class="ttm-timelistbox-block-wrapper">
                                 <ul class="ttm-timelistbox-block">
-                                    <li>Monday - Friday<span class="service-time">09:00 - 17:00</span></li>
-                                    <li>Saturday<span class="service-time">09:00 - 17:00</span></li>
+                                    <li>Monday - Friday<span class="service-time">08:00 - 17:00</span></li>
+                                    <li>Saturday<span class="service-time">Closed</span></li>
                                     <li>Sunday<span class="service-time">Closed</span></li>
                                 </ul>
                             </div>

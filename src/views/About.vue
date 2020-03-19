@@ -52,8 +52,8 @@
                             <!-- section title -->
                             <div class="section-title clearfix">
                                 <div class="title-header">
-                                    <h5>INTRODUCING</h5>
-                                    <h2 class="title">Tackle the challenge of delivering health care</h2>
+                                    <h5>ABOUT AGROPARK</h5>
+                                    <h2 class="title">Professional farmland and rural property managers</h2>
                                 </div>
                             </div><!-- section title end -->
                             <div class="mb-30 clearfix">
@@ -265,8 +265,8 @@
                                                 <h5>Our Mission</h5>
                                             </div>
                                             <div class="featured-desc">
-                                                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium blanditiis praesentium voluptatum</p>
-                                                <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline" href="#">MORE ABOUT</a>
+                                                <p>Towards healthier Nations</p>
+                                                <!-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline" href="#">MORE ABOUT</a> -->
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->
@@ -291,8 +291,8 @@
                                                 <h5>Our Vision</h5>
                                             </div>
                                             <div class="featured-desc">
-                                                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium blanditiis praesentium voluptatum</p>
-                                                <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline" href="#">MORE ABOUT</a>
+                                                <p>To be responsive and dynamic organization providing healthier meals for people</p>
+                                                <!-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline" href="#">MORE ABOUT</a> -->
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->

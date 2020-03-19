@@ -15,7 +15,7 @@
                                     </div>
                                 </div>
                                 <div class="featured-title">
-                                    <h5>+123 456 78910 / 11</h5>
+                                    <h5>+234 906 282 2257</h5>
                                     <h4>Have a question? call us now</h4>
                                 </div>
                             </div><!-- featured-icon-box end-->
@@ -31,7 +31,7 @@
                                     </div>
                                 </div>
                                 <div class="featured-title">
-                                    <h5>info@domainname.com</h5>
+                                    <h5>info@agropark.ng</h5>
                                     <h4>Need support? Drop us an email</h4>
                                 </div>
                             </div><!-- featured-icon-box end-->
@@ -47,8 +47,8 @@
                                     </div>
                                 </div>
                                 <div class="featured-title">
-                                    <h5>Mon – Sat 07:00 – 21:00</h5>
-                                    <h4>We are open on</h4>
+                                    <h5>Mon – Fri 08:00am – 5:00pm</h5>
+                                    <h4>We are open</h4>
                                 </div>
                             </div><!-- featured-icon-box end-->
                         </aside>
@@ -61,62 +61,55 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
                         <div class="widget widget_text clearfix">
-                            <h3 class="widget-title">About Delmont</h3>
+                            <h3 class="widget-title">About Agropark</h3>
                             <div class="textwidget widget-text">
-                                Our Clinic has grown to provide a world class facility for the clinic advanced restorative dentistry.
-                                <br><br>We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience.
+                                Agro-Park is primarily a farm management company involved in the end to end of agricultural value chain
                                 <br><br>
                                 <div class="social-icons social-hover">
                                     <ul class="list-inline">
-                                        <li class="social-facebook"><a class="tooltip-top" target="_blank" href="#" data-tooltip="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                        <li class="social-twitter"><a class="tooltip-top" target="_blank" href="#" data-tooltip="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                        <li class="social-linkedin"><a class=" tooltip-top" target="_blank" href="" data-tooltip="LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                        <li class="social-facebook"><a class="tooltip-top" target="_blank" href="https://web.facebook.com/agroparkng?_rdc=1&_rdr" data-tooltip="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                        <li class="social-twitter"><a class="tooltip-top" target="_blank" href="https://twitter.com/agroparkng" data-tooltip="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                        <li class="social-instagram"><a class=" tooltip-top" target="_blank" href="https://www.instagram.com/agroparkng/" data-tooltip="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
                         <div class="widget widget_nav_menu clearfix">
                            <h3 class="widget-title">Quick Links</h3>
                             <ul id="menu-footer-quick-links">
-                                <li><a href="index.html">Make Appointments</a></li>
-                                <li><a href="services-1.html">Before & After</a></li>
-                                <li><a href="about-1.html">Customer Treatments</a></li>
-                                <li><a href="single-style-1.html">Our Doctors Team</a></li>
-                                <li><a href="blog.html">Departments Services</a></li>
-                                <li><a href="our-team.html">About our Clinic</a></li>
-                                <li><a href="faq.html">Contact Us</a></li>
+                                <li><router-link to="/about" tag="a"> About Us</router-link></li>
+                                <li><router-link to="/contact" tag="a"> Contact Us </router-link></li>
+                                <li><router-link tag="a" to="/"> Asset Management </router-link></li>
+                                <li><router-link tag="a" to="/agribusiness-academy">Agribusiness Academy </router-link></li>
+                                <li><router-link to="/gallery" tag="a"> Gallery </router-link></li>
                             </ul>
                         </div>
                     </div>
+
                      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
                         <div class="widget widget_nav_menu clearfix">
-                           <h3 class="widget-title">Quick Links</h3>
+                           <h3 class="widget-title">Featured Links</h3>
                             <ul id="menu-footer-quick-links">
-                                <li><a href="index.html">Make Appointments</a></li>
-                                <li><a href="services-1.html">Before & After</a></li>
-                                <li><a href="about-1.html">Customer Treatments</a></li>
-                                <li><a href="single-style-1.html">Our Doctors Team</a></li>
-                                <li><a href="blog.html">Departments Services</a></li>
-                                <li><a href="our-team.html">About our Clinic</a></li>
-                                <li><a href="faq.html">Contact Us</a></li>
+                                <li><a href="https://www.app.agropark.ng/#/">Portal</a></li>
+                                <li><a href="https://blog.agropark.ng/">Blog</a> </li>
                             </ul>
                         </div>
                     </div>
-                   
                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
                         <div class="widget widget_nav_menu menu-footer-services-menu clearfix">
-                            <h3 class="widget-title">Our Services</h3>
+                            <h3 class="widget-title">About Us</h3>
                             <ul id="menu-footer-services-menu" class="menu">
-                                <li><a href="#">Surgery</a></li>
-                                <li><a href="#">Psychological</a></li>
-                                <li><a href="#">Cardiology</a></li>
-                                <li><a href="#">Orthopedics</a></li>
-                                <li><a href="#">Pediatric</a></li>
-                                <li><a href="#">Oncology</a></li>
-                                <li><a href="#">Anesthesiology</a></li>
-                                <li><a href="#">Dermatology</a></li>
+                                <li><router-link to="/our-team" tag="a"> Our Team</router-link></li>
+                                <li><router-link to="/partners" tag="a"> Partners</router-link></li>
+                                <li><router-link to="/gallery" tag="a"> Gallery</router-link></li>
+                                <li><router-link to="/bulletin" tag="a"> Bulletin </router-link></li>
+                                <li><router-link to="/brochure" tag="a"> Brochure</router-link></li>
+                                <li><router-link to="/faq" tag="a"> FAQ</router-link></li>
+                                <li><router-link to="/graduate-trainee" tag="a"> Graduate Trainee</router-link></li>
+                                <li><router-link to="/testimonials" tag="a"> Testimonials</router-link></li>
                             </ul>
                         </div>
                         <div class="widget widget-text clearfix">
