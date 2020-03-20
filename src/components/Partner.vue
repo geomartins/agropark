@@ -67,7 +67,17 @@ export default {
 
 
 <style>
-
+.owl-carousel.owl-loaded {
+    display: flex;
+    flex-direction: row;
+    flex-basis: 200px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.client-box {
+    text-align: center;
+    margin: 10px;
+}
 </style>
 
 

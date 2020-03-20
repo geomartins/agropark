@@ -170,7 +170,6 @@
                                                      <router-link  tag="li" to='/bulletin' ><a>Bulletin</a></router-link>
                                                      <router-link  tag="li" to='/brochure' ><a>Brochure</a></router-link>
                                                      <router-link  tag="li" to='/faq' ><a>FAQ</a></router-link>
-                                                     <router-link  tag="li" to='/testimonials' ><a>Testimonials</a></router-link>
                                                      <router-link  tag="li" to='/graduate-trainee' ><a>Graduate Trainee</a></router-link>
                                                      <li><a href="https://blog.agropark.ng" target="_blank">Blog</a></li>
 

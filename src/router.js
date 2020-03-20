@@ -3,6 +3,11 @@ import Router from "vue-router";
 import Welcome from "./views/Welcome.vue";
 import Faq from "./views/Faq.vue";
 import Contact from "./views/Contact.vue"
+import Partners from "./views/Partners.vue"
+import Gallery from "./views/Gallery.vue"
+import Bulletin from "./views/Bulletin.vue"
+import Brochure from "./views/Brochure.vue"
+
 
 Vue.use(Router);
 
@@ -25,6 +30,26 @@ export default new Router({
       path: "/contact",
       name: "Contact",
       component: Contact
+    },
+    {
+      path: "/partners",
+      name: "Partners",
+      component: Partners
+    },
+    {
+      path: "/gallery",
+      name: "Gallery",
+      component: Gallery
+    },
+    {
+      path: "/bulletin",
+      name: "Bulletin",
+      component: Bulletin
+    },
+    {
+      path: "/brochure",
+      name: "Brochure",
+      component: Brochure
     },
     {
       path: "/about",
