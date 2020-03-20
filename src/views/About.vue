@@ -57,8 +57,9 @@
                                 </div>
                             </div><!-- section title end -->
                             <div class="mb-30 clearfix">
-                                <p>We provide the most full medical services, so every person could have the opportunity to receive qualitative medical help.</p>
-                                <p>Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience.</p>
+                                <p>Agro Park Development Company Limited (APDCL) is primarily a farm management company involved in the end to end of the agricultural value chain. Our mission is to provide healthier meals for Nations. We manage farmland for Individuals, Corporate organisations, and Institutional investors.</p>
+                                <p>Our drive as an organization is to revolutionize agricultural practices in Nigeria and Africa at large. Since we started out 3 years ago, we have been consistent—meeting all obligations and bringing solutions to issues in agriculture through innovation. At present, we manage more than 5,000 hectares of farmland across the country.</p>
+                                <p> Our maiden farm estate on which we produce and process organic food (crops and livestock) sits on about 1,500 hectares of land. It is located at Ijale-Orile, Abeokuta, Ogun State. We offer for sale and lease farmland and provide 100% farm management services for you. At Agro Park, we cultivate herbs, spices & staple crops, produce livestock (Poultry, Fish (cat fish and Tilapia), Snail, Pig, and Rabbit), and cash crop (Oil palm & cashew). </p>
                             </div>
                             <div class="ttm_sign_image-wrapper mb-25 res-991-mb-0">
                                 <img src="images/dr-sign.png" alt="ttm_single_image-wrapper">
