@@ -150,14 +150,14 @@
                                         </div>
                                     </div><!-- header-icons end -->
                                     <div class="ttm-menu-toggle">
-                                        <input type="checkbox" id="menu-toggle-form" />
-                                        <label for="menu-toggle-form" class="ttm-menu-toggle-block">
+                                        <input type="checkbox" id="menu-toggle-form" :class="active" />
+                                        <label for="menu-toggle-form" class="ttm-menu-toggle-block" @click="triggerMenu()">
                                             <span class="toggle-block toggle-blocks-1"></span>
                                             <span class="toggle-block toggle-blocks-2"></span>
                                             <span class="toggle-block toggle-blocks-3"></span>
                                         </label>
                                     </div>
-                                    <nav id="menu" class="menu">
+                                    <nav id="menu" class="menu" :class="active">
                                         <ul class="dropdown">
                                             
                                             <router-link exact-active-class="active" tag="li" to='/' exact ><a>Home</a></router-link>
@@ -253,7 +253,23 @@
 <script>
 export default {
   name: "Header",
-  props: {}
+  props: {},
+  data(){
+      return {
+          active: ''
+      }
+  },
+  methods:{
+      triggerMenu(){
+          if(this.active == ''){
+               this.active = 'active'
+          }else{
+              this.active= '';
+          }
+         
+          console.log(this.active);
+      }
+  }
 };
 </script>
 
