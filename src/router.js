@@ -7,6 +7,8 @@ import Partners from "./views/Partners.vue"
 import Gallery from "./views/Gallery.vue"
 import Bulletin from "./views/Bulletin.vue"
 import Brochure from "./views/Brochure.vue"
+import GraduateTrainee from "./views/GraduateTrainee.vue"
+import Academy from "./views/Academy.vue"
 
 
 Vue.use(Router);
@@ -50,6 +52,16 @@ export default new Router({
       path: "/brochure",
       name: "Brochure",
       component: Brochure
+    },
+    {
+      path: "/graduate-trainee",
+      name: "GraduateTrainee",
+      component: GraduateTrainee
+    },
+    {
+      path: "/agribusiness-academy",
+      name: "Academy",
+      component: Academy
     },
     {
       path: "/about",

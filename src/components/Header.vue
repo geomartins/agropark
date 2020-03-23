@@ -160,17 +160,17 @@
                                     <nav id="menu" class="menu">
                                         <ul class="dropdown">
                                             
-                                            <router-link class="active" tag="li" to='/' ><a>Home</a></router-link>
+                                            <router-link exact-active-class="active" tag="li" to='/' exact ><a>Home</a></router-link>
                                             <li><a href="#">About</a>
                                                 <ul>
-                                                    <router-link  tag="li" to='/about' ><a>About Us</a></router-link>
-                                                     <router-link  tag="li" to='/our-team' ><a>Our Team</a></router-link>
-                                                     <router-link  tag="li" to='/partners' ><a>Partners</a></router-link>
-                                                     <router-link  tag="li" to='/gallery' ><a>Gallery</a></router-link>
-                                                     <router-link  tag="li" to='/bulletin' ><a>Bulletin</a></router-link>
-                                                     <router-link  tag="li" to='/brochure' ><a>Brochure</a></router-link>
-                                                     <router-link  tag="li" to='/faq' ><a>FAQ</a></router-link>
-                                                     <router-link  tag="li" to='/graduate-trainee' ><a>Graduate Trainee</a></router-link>
+                                                    <router-link  tag="li" to='/about'  exact-active-class="active" ><a>About Us</a></router-link>
+                                                     <router-link  tag="li" to='/our-team' exact-active-class="active"><a>Our Team</a></router-link>
+                                                     <router-link  tag="li" to='/partners' exact-active-class="active"><a>Partners</a></router-link>
+                                                     <router-link  tag="li" to='/gallery' exact-active-class="active"><a>Gallery</a></router-link>
+                                                     <router-link  tag="li" to='/bulletin' exact-active-class="active"><a>Bulletin</a></router-link>
+                                                     <router-link  tag="li" to='/brochure' exact-active-class="active"><a>Brochure</a></router-link>
+                                                     <router-link  tag="li" to='/faq' exact-active-class="active"><a>FAQ</a></router-link>
+                                                     <router-link  tag="li" to='/graduate-trainee' exact-active-class="active" ><a>Graduate Trainee</a></router-link>
                                                      <li><a href="https://blog.agropark.ng" target="_blank">Blog</a></li>
 
                                                 </ul>
@@ -178,22 +178,22 @@
 
                                             <li><a href="#">Asset Management</a>
                                                 <ul>
-                                                    <router-link  tag="li" to='/poultry-subscription' ><a>Poultry Subscription</a></router-link>
-                                                     <router-link  tag="li" to='/fishery-subscription' ><a>Fishery Subscription</a></router-link>
-                                                     <router-link  tag="li" to='/farmland-subscription' ><a>Farmland Subscription</a></router-link>
-                                                     <router-link  tag="li" to='/cashcrop-subscription' ><a>Cash Crop Subscription</a></router-link>
-                                                     <router-link  tag="li" to='/crop-subscription' ><a>Crop Subscription</a></router-link>
+                                                    <router-link  tag="li" to='/poultry-subscription' exact-active-class="active" ><a>Poultry Subscription</a></router-link>
+                                                     <router-link  tag="li" to='/fishery-subscription' exact-active-class="active" ><a>Fishery Subscription</a></router-link>
+                                                     <router-link  tag="li" to='/farmland-subscription' exact-active-class="active" ><a>Farmland Subscription</a></router-link>
+                                                     <router-link  tag="li" to='/cashcrop-subscription' exact-active-class="active" ><a>Cash Crop Subscription</a></router-link>
+                                                     <router-link  tag="li" to='/crop-subscription' exact-active-class="active" ><a>Crop Subscription</a></router-link>
                                                 </ul>
                                             </li>
                                             <li><a href="#">Academy</a>
                                                 <ul>
-                                                    <router-link to='/agribusiness-academy' tag="li"><a>Agribusiness Academy </a> </router-link>
+                                                    <router-link to='/agribusiness-academy' tag="li" exact-active-class="active"><a>Agribusiness Academy </a> </router-link>
                                                 </ul>
                                             </li>
 
                                              
                                            
-                                            <router-link to='/contact' tag="li"><a> Contact Us </a> </router-link>
+                                            <router-link to='/contact' tag="li" exact-active-class="active"><a> Contact Us </a> </router-link>
                                             <li><a href="https://app.agropark.ng" target="_blank">Portal</a>
                                             </li>
                                         </ul>
