@@ -108,7 +108,7 @@
                                 <li><router-link to="/bulletin" tag="a"> Bulletin </router-link></li>
                                 <li><router-link to="/brochure" tag="a"> Brochure</router-link></li>
                                 <li><router-link to="/faq" tag="a"> FAQ</router-link></li>
-                                <li><router-link to="/graduate-trainee" tag="a"> Graduate Trainee</router-link></li>
+                                <li><router-link to="/graduate-trainee" tag="a"> Careers</router-link></li>
                             </ul>
                         </div>
                         <div class="widget widget-text clearfix">

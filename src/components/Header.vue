@@ -182,7 +182,7 @@
                                                      <router-link  tag="li" to='/fishery-subscription' exact-active-class="active" ><a>Fishery Subscription</a></router-link>
                                                      <router-link  tag="li" to='/farmland-subscription' exact-active-class="active" ><a>Farmland Subscription</a></router-link>
                                                      <router-link  tag="li" to='/cashcrop-subscription' exact-active-class="active" ><a>Cash Crop Subscription</a></router-link>
-                                                     <router-link  tag="li" to='/crop-subscription' exact-active-class="active" ><a>Crop Subscription</a></router-link>
+                            
                                                 </ul>
                                             </li>
                                             <li><a href="#">Academy</a>

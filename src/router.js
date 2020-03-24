@@ -9,6 +9,10 @@ import Bulletin from "./views/Bulletin.vue"
 import Brochure from "./views/Brochure.vue"
 import GraduateTrainee from "./views/GraduateTrainee.vue"
 import Academy from "./views/Academy.vue"
+import Poultry from "./views/Poultry.vue"
+import Fishery from "./views/Fishery.vue"
+import Farmland from "./views/Farmland.vue"
+import CashCrop from "./views/CashCrop.vue"
 
 
 Vue.use(Router);
@@ -52,6 +56,27 @@ export default new Router({
       path: "/brochure",
       name: "Brochure",
       component: Brochure
+    },
+    {
+      path: "/poultry-subscription",
+      name: "Poultry",
+      component: Poultry
+    },
+
+    {
+      path: "/fishery-subscription",
+      name: "Fishery",
+      component: Fishery
+    },
+    {
+      path: "/farmland-subscription",
+      name: "Farmland",
+      component: Farmland
+    },
+    {
+      path: "/cashcrop-subscription",
+      name: "CashCrop",
+      component: CashCrop
     },
     {
       path: "/graduate-trainee",
