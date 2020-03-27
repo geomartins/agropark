@@ -87,15 +87,15 @@
                                                 <span class="sep_holder"><span class="sep_line"></span></span>
                                                 <span class="sep_holder"><span class="sep_line"></span></span>
                                             </div>
-                                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
-                                            <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
+                                            <p>Our Poultry investment is a short- term investment portfolio which involves raising a number of birds (250 birds per Pen) to maturity. The cost of raising the birds to maturity, Pen rental and Insurance cover are stated in the template. You can subscribe for multiply pens. </p>
+                                            <p>Please see the template for more details. Alternatively, download Investment breakdown. </p>
                                         </div>
                                     </div>
                                     <!-- row -->
                                     <div class="row">
                                         <div class="col-lg-12">
                                             <div class="pt-30">
-                                                <h4>Caring for your dentures</h4>
+                                                <h4>Subscription Details</h4>
                                                 <div class="sep_holder_box width-100 mb-20">
                                                     <span class="sep_holder"><span class="sep_line"></span></span>
                                                     <span class="sep_holder"><span class="sep_line"></span></span>
@@ -103,10 +103,10 @@
                                                 <div class="row">
                                                     <div class="col-sm-6">
                                                         <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
-                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">repudiated and annoyances Lorem ipsum dolor sit consectetur.</span></li>
-                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">annoyances pain can procure him great pleasure ipsum sit.</span></li>
-                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">combined with handful of model sentence and repudiated.</span></li>
-                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">accusantium doloremque laudantium.</span></li>
+                                                            <li><i class="fa fa-arrow-circle-right"></i> <a href="https://agropark.ng/asset-files/poultry.pdf" > <span class="ttm-list-li-content"> Poultry Subscription Template </span> </a></li>
+                                                            <li><i class="fa fa-arrow-circle-right"></i><a href="https://agropark.ng/asset-files/investment-breakdown.pptx" > <span class="ttm-list-li-content">You can download this investment breakdown for further details</span> </a></li>
+                                                            <li><i class="fa fa-arrow-circle-right"></i><a href="https://www.app.agropark.ng/" > <span class="ttm-list-li-content">Please click on this link to submit an application</span> </a> </li>
+                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Please click on this link to submit an application </span></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-sm-6">
@@ -146,7 +146,7 @@
                                 <div class="ttm-nextprev-bottom-nav">
                                     <nav class="navigation post-navigation">
                                         <div class="nav-links">
-                                            <div class="nav-previous"><a href="#" rel="prev"><span class="meta-nav" aria-hidden="true">Previous</span></a></div>
+                                            <div class="nav-next"><router-link to="/fishery-subscription"  tag="a" rel="next"><span class="meta-nav" aria-hidden="true">Click To View Other Available Investment </span></router-link></div>
                                         </div>
                                     </nav>
                                 </div>
