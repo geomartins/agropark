@@ -59,7 +59,7 @@
                                     </div>
                                     <div class="ttm-box-bottom-content featured-content-portfolio box-shadow">
                                         <div class="featured-title">
-                                            <h5><a href="single-style-3.html">Dentures / Partial Dentures</a></h5>
+                                            <h5><a href="single-style-3.html">Farmland Subscription</a></h5>
                                         </div>
                                         <span class="category">
                                             <a href="portfolio-category.html">Oncology</a>,
