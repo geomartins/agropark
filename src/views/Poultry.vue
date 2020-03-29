@@ -141,7 +141,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-12">
+                            <!-- <div class="col-lg-12">
                                 
                                 <div class="ttm-nextprev-bottom-nav">
                                     <nav class="navigation post-navigation">
@@ -150,8 +150,9 @@
                                         </div>
                                     </nav>
                                 </div>
-                            </div>
-                        </div><!-- ttm-pf-single-content-wrapper-innerbox end-->
+                            </div> -->
+                        </div>
+                        <!-- ttm-pf-single-content-wrapper-innerbox end-->
 
 
                         <app-related-portfolio></app-related-portfolio>
