@@ -45,7 +45,7 @@
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]">A Medical Care 
+                            data-paddingleft="[0,0,0,0]">We are Professional Farmland
                         </div>
 
                         <div class="tp-caption slide-main-text tp-resizeme" id="slide-8-layer-9" data-x="['left','left','center','center']" data-hoffset="['50','40','0','0']" data-y="['top','top','top','top']" data-voffset="['295','271','170','134']"
@@ -63,7 +63,7 @@
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]">You Can Always Trust! 
+                            data-paddingleft="[0,0,0,0]">and Rural Property Managers! 
                         </div>
 
                         <div class="tp-caption slide-desc-text tp-resizeme" id="slide-8-layer-10" data-x="['left','left','center','left']" data-hoffset="['50','40','-664','-579']" data-y="['top','top','top','top']" data-voffset="['386','362','214','233']"
@@ -84,7 +84,8 @@
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]">I realized that becoming a doctor, I can only help a small community. But by<br> becoming a doctor, I can help my whole country. 
                         </div>
-
+                        
+                          
                         <a class="tp-caption dark-flatborder-button tp-resizeme" href="#" target="_self" id="slide-8-layer-14" data-x="['left','left','center','center']" data-hoffset="['50','41','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['151','151','70','52']"
 
                             data-fontsize="['13','13','13','11']"

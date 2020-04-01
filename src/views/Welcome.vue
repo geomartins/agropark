@@ -40,7 +40,7 @@
                                         </div>
                                         <div class="featured-content">
                                             <div class="featured-title">
-                                                <h5>Leading Technology</h5>
+                                                <h5>Green Asset Management</h5>
                                             </div>
                                             <div class="featured-desc">
                                                 <p>Our Delmont hospital utilizes state-of-the-art technology and employs a team of true experts.</p>
@@ -57,7 +57,7 @@
                                         </div>
                                         <div class="featured-content">
                                             <div class="featured-title">
-                                                <h5>Experts by Experience</h5>
+                                                <h5>Our Projects</h5>
                                             </div>
                                             <div class="featured-desc">
                                                 <p>Our Delmont hospital utilizes state-of-the-art technology and employs a team of true experts.</p>
