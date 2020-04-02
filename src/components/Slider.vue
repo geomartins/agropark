@@ -82,7 +82,7 @@
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]">I realized that becoming a doctor, I can only help a small community. But by<br> becoming a doctor, I can help my whole country. 
+                            data-paddingleft="[0,0,0,0]">"the ultimate goal of Farming is not the growing of crops,<br> but the cultivation and perfection of human beings"  Masanobu Fukuoka 
                         </div>
                         
                           
