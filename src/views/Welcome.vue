@@ -98,16 +98,16 @@
                             <div class="section-title clearfix">
                                 <div class="title-header">
                                     <h5>INTRODUCING</h5>
-                                    <h2 class="title">Tackle the challenge of delivering health care</h2>
+                                    <h2 class="title">Bringing change to our World through Agriculture</h2>
                                 </div>
                             </div><!-- section title end -->
                             <div class="mb-30 clearfix">
                                 <p>We provide the most full medical services, so every person could have the opportunity to receive qualitative medical help.</p>
                                 <p>Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience.</p>
                             </div>
-                            <div class="ttm_sign_image-wrapper mb-25 res-991-mb-0">
+                            <!-- <div class="ttm_sign_image-wrapper mb-25 res-991-mb-0">
                                 <img src="images/dr-sign.png" alt="ttm_single_image-wrapper">
-                            </div>
+                            </div> -->
                             <div class="sep_holder_box pt-25 mb-45 res-991-mb-20">
                                 <span class="sep_holder"><span class="sep_line"></span></span>
                             </div>
@@ -123,7 +123,8 @@
                                                 <h5>Online Appointment!</h5>
                                             </div>
                                         </div>
-                                    </div><!-- featured-icon-box end-->
+                                    </div>
+                                    <!-- featured-icon-box end-->
                                 </div>
                                 <div class="col-md-4 col-sm-12">
                                     <!--featured-icon-box-->
@@ -171,7 +172,7 @@
                         <div class="section-title with-desc text-center clearfix">
                             <div class="title-header">
                                 <h5>OUR SERVICES</h5>
-                                <h2 class="title">Special High-quality Services</h2>
+                                <h2 class="title">Our High Value Investment Portfolios</h2>
                             </div>
                             <div class="title-desc">Since its founding Delmont has been providing its patients with the full medical care, encompassing outpatients services, is neurology, laboratory, imaging diagnostics and more.</div>
                         </div><!-- section-title end -->
@@ -187,7 +188,8 @@
                             </div>
                             <div class="featured-content featured-content-bottom">
                                 <div class="featured-title">
-                                    <h5><a href="single-blog.html">Psychiatry</a></h5>
+                                    <h5>
+                                        <router-link to="/poultry-subscription" tag="a"> Livestock </router-link> </h5>
                                 </div>
                                 <div class="featured-desc">
                                     <p>Our Cardiology hospital utilizes state-of-the-art technology and employs a team of true experts.</p>
@@ -204,7 +206,7 @@
                             </div>
                             <div class="featured-content featured-content-bottom">
                                 <div class="featured-title">
-                                    <h5><a href="single-blog.html">Cardiology</a></h5>
+                                    <h5><router-link to="/fishery-subscription" tag="a"> Aquaculture </router-link></h5>
                                 </div>
                                 <div class="featured-desc">
                                     <p>Our Cardiology hospital utilizes state-of-the-art technology and employs a team of true experts.</p>
@@ -221,7 +223,7 @@
                             </div>
                             <div class="featured-content featured-content-bottom">
                                 <div class="featured-title">
-                                    <h5><a href="single-blog.html">Immunology</a></h5>
+                                    <h5><router-link to="/cashcrop-subscription" tag="a"> Cash Crop </router-link></h5>
                                 </div>
                                 <div class="featured-desc">
                                     <p>Our nurology hospital utilizes state-of-the-art technology and employs a team of true experts.</p>
