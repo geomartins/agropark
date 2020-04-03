@@ -203,7 +203,7 @@
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]">I realized that becoming a doctor, I can only help a small community. But by<br> becoming a doctor, I can help my whole country. 
+                            data-paddingleft="[0,0,0,0]">"agriclture not only gives riches to a nation,<br> but the only riches she can call her own" Samuel Johnson 
                         </div>
 
                         <a class="tp-caption dark-flatborder-button" href="#" target="_self" id="slide-17-layer-14" data-x="['left','left','center','center']" data-hoffset="['50','41','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['151','151','60','52']"
