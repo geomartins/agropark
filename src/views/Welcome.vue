@@ -102,8 +102,9 @@
                                 </div>
                             </div><!-- section title end -->
                             <div class="mb-30 clearfix">
-                                <p>We provide the most full medical services, so every person could have the opportunity to receive qualitative medical help.</p>
-                                <p>Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience.</p>
+                                <p>Farmland is a resource to its owner. It becomes an asset when cultivated. Many people and organisations are unable to take advantage of the appreciation of their asset as they are faced with issues such as seed procurement, farm management and ultimately, profitability. This underscores the importance of savvy managers that can help you maximise the effective and efficient use of agricultural resources.</p>
+                                <p>At Agro Park, our farm management module involves strategic offtake partners that serve as a secured market for cultivated crops. We also manage rural estates as part of our mission to improve social standards through agriculture. </p>
+                                <p> We acquire, develop, and partner with individuals, companies, and institutions to create a dramatic turnaround on existing agricultural infrastructures that are not yielding the expected profits. </p>
                             </div>
                             <!-- <div class="ttm_sign_image-wrapper mb-25 res-991-mb-0">
                                 <img src="images/dr-sign.png" alt="ttm_single_image-wrapper">
