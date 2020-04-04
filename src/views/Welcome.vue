@@ -44,7 +44,8 @@
                                             </div>
                                             <div class="featured-desc">
                                                 <p>Our Delmont hospital utilizes state-of-the-art technology and employs a team of true experts.</p>
-                                                <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-15" href="#">VIEW MORE</a>
+                                                <router-link to="/asset-management" tag="a" class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-15"> VIEW MORE </router-link>
+                                                <!-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-15" href="#">VIEW MORE</a> -->
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->
