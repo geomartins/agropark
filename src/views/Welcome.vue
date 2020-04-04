@@ -36,7 +36,7 @@
                                     <!-- featured-icon-box -->
                                     <div class="featured-icon-box top-icon featured-icon-hover text-center">
                                         <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
-                                            <i class="themifyicon ti-blackboard"></i>
+                                            <i class="themifyicon ti-settings"></i>
                                         </div>
                                         <div class="featured-content">
                                             <div class="featured-title">
@@ -53,7 +53,7 @@
                                     <!-- featured-icon-box -->
                                     <div class="featured-icon-box top-icon featured-icon-hover text-center">
                                         <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
-                                            <i class="themifyicon ti-user"></i>
+                                            <i class="themifyicon ti-world"></i>
                                         </div>
                                         <div class="featured-content">
                                             <div class="featured-title">
