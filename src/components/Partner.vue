@@ -8,47 +8,47 @@
                         <!-- ttm-client -->
                         <div class="ttm-client clients-slide owl-carousel owl-theme owl-loaded" data-item="5" data-nav="false" data-dots="false" data-auto="false">
                             <div class="client-box ttm-box-view-separator-logo">
-                                <div class="ttm-client-logo-tooltip" data-tooltip="client-01">
+                                <div class="ttm-client-logo-tooltip" data-tooltip="agricapital">
                                     <div class="client-thumbnail">
-                                        <img src="images/client/client-01.png" alt="image">
+                                        <img src="/img/agri.png" alt="image">
                                     </div>
                                 </div>
                             </div>
                             <div class="client-box ttm-box-view-separator-logo">
+                                <div class="ttm-client-logo-tooltip" data-tooltip="nardus">
+                                    <div class="client-thumbnail">
+                                        <img src="/img/nardus.png" alt="image">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="client-box ttm-box-view-separator-logo">
+                                <div class="ttm-client-logo-tooltip" data-tooltip="sanofoods">
+                                    <div class="client-thumbnail">
+                                        <img src="/img/sano.png" alt="image">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="client-box ttm-box-view-separator-logo">
+                                <div class="ttm-client-logo-tooltip" data-tooltip="fipl">
+                                    <div class="client-thumbnail">
+                                        <img src="/img/fipl.png" alt="image">
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- <div class="client-box ttm-box-view-separator-logo">
                                 <div class="ttm-client-logo-tooltip" data-tooltip="client-02">
                                     <div class="client-thumbnail">
                                         <img src="images/client/client-02.png" alt="image">
                                     </div>
                                 </div>
-                            </div>
-                            <div class="client-box ttm-box-view-separator-logo">
+                            </div> -->
+                            <!-- <div class="client-box ttm-box-view-separator-logo">
                                 <div class="ttm-client-logo-tooltip" data-tooltip="client-03">
                                     <div class="client-thumbnail">
                                         <img src="images/client/client-03.png" alt="image">
                                     </div>
                                 </div>
-                            </div>
-                            <div class="client-box ttm-box-view-separator-logo">
-                                <div class="ttm-client-logo-tooltip" data-tooltip="client-01">
-                                    <div class="client-thumbnail">
-                                        <img src="images/client/client-01.png" alt="image">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="client-box ttm-box-view-separator-logo">
-                                <div class="ttm-client-logo-tooltip" data-tooltip="client-02">
-                                    <div class="client-thumbnail">
-                                        <img src="images/client/client-02.png" alt="image">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="client-box ttm-box-view-separator-logo">
-                                <div class="ttm-client-logo-tooltip" data-tooltip="client-03">
-                                    <div class="client-thumbnail">
-                                        <img src="images/client/client-03.png" alt="image">
-                                    </div>
-                                </div>
-                            </div>
+                            </div> -->
                         </div><!-- ttm-client end -->      
                     </div>
                 </div><!-- row end -->

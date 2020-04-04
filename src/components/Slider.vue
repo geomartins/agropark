@@ -86,7 +86,7 @@
                         </div>
                         
                           
-                        <a class="tp-caption dark-flatborder-button tp-resizeme" href="#" target="_self" id="slide-8-layer-14" data-x="['left','left','center','center']" data-hoffset="['50','41','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['151','151','70','52']"
+                        <router-link tag="a" to="/farmland-subscription" class="tp-caption dark-flatborder-button tp-resizeme"  id="slide-8-layer-14" data-x="['left','left','center','center']" data-hoffset="['50','41','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['151','151','70','52']"
 
                             data-fontsize="['13','13','13','11']"
                             data-lineheight="['13','13','13','11']"
@@ -103,10 +103,10 @@
                             data-paddingtop="[19,19,19,15]"
                             data-paddingright="[30,30,30,25]"
                             data-paddingbottom="[19,19,19,15]"
-                            data-paddingleft="[30,30,30,25]">VIEW MORE DETAILS 
-                        </a>
+                            data-paddingleft="[30,30,30,25]" >VIEW MORE DETAILS 
+                        </router-link>
 
-                        <a class="tp-caption skin-flat-button tp-resizeme" href="#" target="_self" id="slide-8-layer-15" data-x="['left','left','center','center']" data-hoffset="['278','251','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['151','151','142','112']"
+                        <a class="tp-caption skin-flat-button tp-resizeme" href="https://app.agropark.ng/#/register" id="slide-8-layer-15" data-x="['left','left','center','center']" data-hoffset="['278','251','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['151','151','142','112']"
 
                             data-fontsize="['13','13','13','11']"
                             data-lineheight="['19','19','19','16']"
@@ -123,7 +123,7 @@
                             data-paddingtop="[17,17,17,15]"
                             data-paddingright="[30,30,23,25]"
                             data-paddingbottom="[17,17,17,15]"
-                            data-paddingleft="[30,30,23,25]">MAKE AN APPOINTMENT! 
+                            data-paddingleft="[30,30,23,25]">SUBSCRIBE NOW
                         </a>
 
                     </li>
@@ -203,7 +203,7 @@
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]">I realized that becoming a doctor, I can only help a small community. But by<br> becoming a doctor, I can help my whole country. 
+                            data-paddingleft="[0,0,0,0]">"agriclture not only gives riches to a nation,<br> but the only riches she can call her own" Samuel Johnson 
                         </div>
 
                         <a class="tp-caption dark-flatborder-button" href="#" target="_self" id="slide-17-layer-14" data-x="['left','left','center','center']" data-hoffset="['50','41','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['151','151','60','52']"

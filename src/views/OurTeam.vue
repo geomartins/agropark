@@ -53,7 +53,7 @@
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img01.jpg" alt="image"> 
+                                <img class="img-fluid" src="/img/1.png" alt="image"> 
                             </div> 
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -61,9 +61,9 @@
                                 </div>
                             </div>
                             <div class="featured-content featured-content-team">
-                                <div class="ttm-team-position">Senior Dr. at Delmont</div>
+                                <div class="ttm-team-position">Managing Director</div>
                                 <div class="featured-title">
-                                    <h5><a href="team-details.html">Dr. Metthew Wood</a></h5>
+                                    <h5><a href="team-details.html">Olusola Olunowo</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox-team end-->
@@ -72,7 +72,7 @@
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img02.jpg" alt="image">
+                                <img class="img-fluid" src="/img/2.png" alt="image">
                             </div> 
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -80,9 +80,9 @@
                                 </div>
                             </div>
                             <div class="featured-content featured-content-team">
-                                <div class="ttm-team-position">Cardiologist Specialist</div>
+                                <div class="ttm-team-position">Chief Financial Officer</div>
                                 <div class="featured-title">
-                                    <h5><a href="team-details.html">Dr. Roy Coleman</a></h5>
+                                    <h5><a href="team-details.html">Seun Oloyede</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox-team end-->
@@ -91,7 +91,7 @@
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img03.jpg" alt="image"> 
+                                <img class="img-fluid" src="/img/3.png" alt="image"> 
                             </div>
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -99,9 +99,9 @@
                                 </div>
                             </div> 
                             <div class="featured-content featured-content-team">
-                                <div class="ttm-team-position">Neurology Specialist</div>
+                                <div class="ttm-team-position">Chief Operations Officer</div>
                                 <div class="featured-title">
-                                    <h5><a href="team-details.html">Dr. Andrew Bert</a></h5>
+                                    <h5><a href="team-details.html">Emmanuel A. Alabi</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox-team end-->
@@ -110,7 +110,7 @@
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img04.jpg" alt="image"> 
+                                <img class="img-fluid" src="/img/4.png" alt="image"> 
                             </div>
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -118,9 +118,9 @@
                                 </div>
                             </div>
                             <div class="featured-content featured-content-team">
-                                <div class="ttm-team-position">Senior Рathologist</div>
+                                <div class="ttm-team-position">International Desk</div>
                                 <div class="featured-title">
-                                    <h5><a href="team-details.html">Dr. Teresa Mayer</a></h5>
+                                    <h5><a href="team-details.html">Babatunde Oyelade</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox-team end-->
@@ -129,7 +129,7 @@
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img05.jpg" alt="image"> 
+                                <img class="img-fluid" src="/img/5.png" alt="image"> 
                             </div>
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -137,9 +137,9 @@
                                 </div>
                             </div>
                             <div class="featured-content featured-content-team">
-                                <div class="ttm-team-position">Senior Dr. at Delmont</div>
+                                <div class="ttm-team-position">General Manager</div>
                                 <div class="featured-title">
-                                    <h5><a href="team-details.html">Dr. Robert Burton</a></h5>
+                                    <h5><a href="team-details.html">Adenike Fagun</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox-team end-->
@@ -148,7 +148,7 @@
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img06.jpg" alt="image"> 
+                                <img class="img-fluid" src="/img/6.png" alt="image"> 
                             </div>
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -156,9 +156,9 @@
                                 </div>
                             </div>
                             <div class="featured-content featured-content-team">
-                                <div class="ttm-team-position">Senior Dr. at Delmont</div>
+                                <div class="ttm-team-position">Head, Marketing Comunications</div>
                                 <div class="featured-title">
-                                    <h5><a href="team-details.html">Dr. Marinka Sulis</a></h5>
+                                    <h5><a href="team-details.html">Adetoro Olayomi</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox-team end-->
@@ -167,7 +167,7 @@
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img07.jpg" alt="image"> 
+                                <img class="img-fluid" src="/img/7.png" alt="image"> 
                             </div>
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -175,9 +175,9 @@
                                 </div>
                             </div>
                             <div class="featured-content featured-content-team">
-                                <div class="ttm-team-position">Senior Dr. at Delmont</div>
+                                <div class="ttm-team-position">Head, Poultry And Livestock</div>
                                 <div class="featured-title">
-                                    <h5><a href="team-details.html">Dr. Micheal Bush</a></h5>
+                                    <h5><a href="team-details.html">Deji Afolami</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox-team end-->
@@ -186,7 +186,7 @@
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img08.jpg" alt="image"> 
+                                <img class="img-fluid" src="/img/8.png" alt="image"> 
                             </div>
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -194,9 +194,9 @@
                                 </div>
                             </div>
                             <div class="featured-content featured-content-team">
-                                <div class="ttm-team-position">Senior Dr. at Delmont</div>
+                                <div class="ttm-team-position">Head, Crop Production</div>
                                 <div class="featured-title">
-                                    <h5><a href="team-details.html">Dr. Grim Goltsman</a></h5>
+                                    <h5><a href="team-details.html">Adetominiyi A. Adebisi</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox-team end-->

@@ -61,16 +61,16 @@
                                 <p>Our drive as an organization is to revolutionize agricultural practices in Nigeria and Africa at large. Since we started out 3 years ago, we have been consistent—meeting all obligations and bringing solutions to issues in agriculture through innovation. At present, we manage more than 5,000 hectares of farmland across the country.</p>
                                 <p> Our maiden farm estate on which we produce and process organic food (crops and livestock) sits on about 1,500 hectares of land. It is located at Ijale-Orile, Abeokuta, Ogun State. We offer for sale and lease farmland and provide 100% farm management services for you. At Agro Park, we cultivate herbs, spices & staple crops, produce livestock (Poultry, Fish (cat fish and Tilapia), Snail, Pig, and Rabbit), and cash crop (Oil palm & cashew). </p>
                             </div>
-                            <div class="ttm_sign_image-wrapper mb-25 res-991-mb-0">
+                            <!-- <div class="ttm_sign_image-wrapper mb-25 res-991-mb-0">
                                 <img src="images/dr-sign.png" alt="ttm_single_image-wrapper">
-                            </div>
-                            <div class="sep_holder_box pt-25 mb-45 res-991-mb-20">
+                            </div> -->
+                            <!-- <div class="sep_holder_box pt-25 mb-45 res-991-mb-20">
                                 <span class="sep_holder"><span class="sep_line"></span></span>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-4 col-sm-12">
+                            </div> -->
+                            <!-- <div class="row"> -->
+                                <!-- <div class="col-md-4 col-sm-12"> -->
                                     <!--featured-icon-box-->
-                                    <div class="featured-icon-box icon-box-heading-only left-icon">
+                                    <!-- <div class="featured-icon-box icon-box-heading-only left-icon">
                                         <div class="featured-icon">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md"> 
                                                 <i class="fa fa-calendar"></i>
@@ -81,11 +81,12 @@
                                                 <h5>Online Appointment!</h5>
                                             </div>
                                         </div>
-                                    </div><!-- featured-icon-box end-->
-                                </div>
-                                <div class="col-md-4 col-sm-12">
+                                    </div> -->
+                                    <!-- featured-icon-box end-->
+                                <!-- </div> -->
+                                <!-- <div class="col-md-4 col-sm-12"> -->
                                     <!--featured-icon-box-->
-                                    <div class="featured-icon-box icon-box-heading-only left-icon">
+                                    <!-- <div class="featured-icon-box icon-box-heading-only left-icon">
                                         <div class="featured-icon">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md"> 
                                                 <i class="fa fa-map-marker"></i>
@@ -96,11 +97,12 @@
                                                 <h5>Available at Your Location</h5>
                                             </div>
                                         </div>
-                                    </div><!-- featured-icon-box end-->
-                                </div>
-                                <div class="col-md-4 col-sm-12">
+                                    </div> -->
+                                    <!-- featured-icon-box end-->
+                                <!-- </div> -->
+                                <!-- <div class="col-md-4 col-sm-12"> -->
                                     <!--featured-icon-box-->
-                                    <div class="featured-icon-box icon-box-heading-only left-icon">
+                                    <!-- <div class="featured-icon-box icon-box-heading-only left-icon">
                                         <div class="featured-icon">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md"> 
                                                 <i class="fa fa-clock-o"></i>
@@ -111,9 +113,10 @@
                                                 <h5>Work Improvements</h5>
                                             </div>
                                         </div>
-                                    </div><!-- featured-icon-box end-->
-                                </div>
-                            </div>
+                                    </div> -->
+                                    <!-- featured-icon-box end-->
+                                <!-- </div> -->
+                            <!-- </div> -->
                         </div>
                     </div>
                 </div><!-- row end -->
