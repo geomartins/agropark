@@ -36,15 +36,17 @@
                             <!-- section title -->
                             <div class="section-title clearfix">
                                 <div class="title-header">
-                                    <h5>OUR MEDICAL</h5>
-                                    <h2 class="title">We’re Setting the Standards in Research & Clinical Care</h2>
+                                    <!-- <h5>OUR MEDICAL</h5> -->
+                                    <h2 class="title">Green Asset Management</h2>
                                 </div>
                             </div><!-- section title end -->
                             <div class="mb-30 clearfix">
-                                <p>We provide the most full medical services, so every person could have the opportunity to receive qualitative medical help. Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the USA with over 35 years of quality training and experience.</p>
+                                <p>What is a Green Asset? For something to be a green asset, it must have social, economic, and environmental value. For us, this includes farmland and rural properties. A green asset can be owned by a person, company, or group of people, usually a family or community.</p>
+                                <p>Several factors militate against the ability of farmland owners to effectively harness the benefits of their asset, such as lack of access to planting materials, enabling technologies, and the key indicators that define and monitor the performance of an asset. These factors determine in the long run, if an asset would yield real value. </p>
+                                <p>We bring practical solutions to these challenges. Farmland owners who choose to leverage the facilities we provide have the option to trade their entire asset, or form a technical partnership to access our materials, technology, and competent human resource. </p>
                             </div>
-                            <h5>Delmont Special Features</h5>
-                            <div class="row">
+                            <!-- <h5>Delmont Special Features</h5> -->
+                            <!-- <div class="row">
                                 <div class="col-md-6">
                                     <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
                                         <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Adult Trauma Center</span></li>
@@ -65,7 +67,7 @@
                                         <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor mt-15" href="#">CONTACT US!</a>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <div class="col-lg-6 col-xs-12">
@@ -76,14 +78,15 @@
                         <div class="about-overlay-shape">
                             <div class="row">
                                 <div class="col-lg-2 col-sm-3"></div>
-                                <div class="col-lg-10 col-sm-6">
+                                <!-- <div class="col-lg-10 col-sm-6">
                                     <div class="about-content ttm-col-bgcolor-yes ttm-bg ttm-bgcolor-darkgrey mt_50 pl-35 pt-15 ttm-textcolor-white">
                                         <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
                                         <div class="layer-content">
                                             <h5 class="font-weight-normal mb-10">We <span class="ttm-textcolor-skincolor"> &nbsp;<i class="fa fa-heart-o"></i>&nbsp; </span> To Care our <span class="ttm-textcolor-skincolor"> Patients !</span></h5>
                                         </div>
-                                    </div><!-- ttm_single_image-wrapper end -->
-                                </div>
+                                    </div> -->
+                                    <!-- ttm_single_image-wrapper end -->
+                                <!-- </div> -->
                                 <div class="col-sm-3"></div>
                             </div>
                         </div>
@@ -114,12 +117,12 @@
                                                 <div class="ttm-box-view-content-inner">
                                                     <!-- featured-thumbnail -->
                                                     <div class="featured-thumbnail">
-                                                        <a href="#"> <img class="img-fluid" src="images/portfolio/01.jpg" alt="image"></a>
+                                                        <a href="#"> <img class="img-fluid" src="/img/fam.png" alt="image"></a>
                                                     </div><!-- featured-thumbnail end-->
                                                     <!-- ttm-box-view-overlay -->
                                                     <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                                         <div class="featured-iconbox ttm-media-link">
-                                                            <a class="ttm_prettyphoto ttm_image" title="Fitness Guidance to Patient" data-rel="prettyPhoto" href="images/portfolio/01.jpg">
+                                                            <a class="ttm_prettyphoto ttm_image" title="Pen" data-rel="prettyPhoto" href="/img/fam.png">
                                                                 <i class="ti ti-search"></i>
                                                             </a>
                                                         </div>
@@ -127,11 +130,11 @@
                                                 </div>
                                                 <div class="ttm-box-bottom-content featured-content-portfolio box-shadow">
                                                     <div class="featured-title">
-                                                        <h5><a href="single-style-1.html">Poultry Subscription</a></h5>
+                                                        <h5><router-link to="/farmland-subscription" tag="a"> Farmland Subscription </router-link></h5>
                                                     </div>
                                                     <span class="category">
-                                                        <a href="portfolio-category.html">Cardiology</a>,
-                                                        <a href="portfolio-category.html">Oncology</a>
+                                                        <a href="#">Starting from, </a>
+                                                        <a href="#">N457,000</a>
                                                     </span>
                                                 </div>
                                             </div><!-- featured-imagebox -->
@@ -142,12 +145,12 @@
                                                 <div class="ttm-box-view-content-inner">
                                                     <!-- featured-thumbnail -->
                                                     <div class="featured-thumbnail">
-                                                        <a href="#"> <img class="img-fluid" src="images/portfolio/02.jpg" alt="image"></a>
+                                                        <a href="#"> <img class="img-fluid" src="/img/fish.png" alt="image"></a>
                                                     </div><!-- featured-thumbnail end-->
                                                     <!-- ttm-box-view-overlay -->
                                                     <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                                         <div class="featured-iconbox ttm-media-link">
-                                                            <a class="ttm_prettyphoto ttm_image" title="Diagnostic Imagine" data-rel="prettyPhoto" href="images/portfolio/02.jpg">
+                                                            <a class="ttm_prettyphoto ttm_image" title="Fish pond" data-rel="prettyPhoto" href="/img/fish.png">
                                                                 <i class="ti ti-search"></i>
                                                             </a>
                                                         </div>
@@ -155,11 +158,11 @@
                                                 </div>
                                                 <div class="ttm-box-bottom-content featured-content-portfolio box-shadow">
                                                     <div class="featured-title">
-                                                        <h5><a href="portfolio-style-3.html">Fishery Subscription</a></h5>
+                                                       <h5><router-link to="/fishery-subscription" tag="a"> Fishery Subscription </router-link></h5>
                                                     </div>
                                                     <span class="category">
-                                                        <a href="portfolio-category.html">Orthopedics</a>,
-                                                        <a href="portfolio-category.html">Pharmacy</a>
+                                                        <a href="#">As low as ,</a>,
+                                                        <a href="#"> N247,999</a>
                                                     </span>
                                                 </div>
                                             </div><!-- featured-imagebox -->
@@ -170,12 +173,12 @@
                                                 <div class="ttm-box-view-content-inner">
                                                     <!-- featured-thumbnail -->
                                                     <div class="featured-thumbnail">
-                                                        <a href="#"> <img class="img-fluid" src="images/portfolio/03.jpg" alt="image"></a>
+                                                        <a href="#"> <img class="img-fluid" src="/img/oil.png" alt="image"></a>
                                                     </div><!-- featured-thumbnail end-->
                                                     <!-- ttm-box-view-overlay -->
                                                     <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                                         <div class="featured-iconbox ttm-media-link">
-                                                            <a class="ttm_prettyphoto ttm_image" title="Orthodontics Surgery &amp; Transplants" data-rel="prettyPhoto" href="images/portfolio/03.jpg">
+                                                            <a class="ttm_prettyphoto ttm_image" title="Oilpalm" data-rel="prettyPhoto" href="/img/oil.png">
                                                                 <i class="ti ti-search"></i>
                                                             </a>
                                                         </div>
@@ -183,11 +186,11 @@
                                                 </div>
                                                 <div class="ttm-box-bottom-content featured-content-portfolio box-shadow">
                                                     <div class="featured-title">
-                                                        <h5><a href="portfolio-style-3.html">Cash Crop Subscription</a></h5>
+                                                        <h5><router-link to="/cashcrop-subscription" tag="a"> CashCrop Subscription </router-link></h5>
                                                     </div>
                                                     <span class="category">
-                                                        <a href="portfolio-category.html">Anesthesiology</a>,
-                                                        <a href="portfolio-category.html">Orthopedics</a>
+                                                        <a href="#">Starting from,</a>,
+                                                        <a href="#"> N457,000</a>
                                                     </span>
                                                 </div>
                                             </div><!-- featured-imagebox -->
