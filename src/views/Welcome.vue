@@ -185,7 +185,7 @@
                         <!--featured-imagebox-->
                         <div class="featured-imagebox ttm-box-view-top-image box-shadow res-991-mb-30">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/services/01.jpg" alt="">
+                                <img class="img-fluid" src="/img/pol.png" alt="">
                             </div>
                             <div class="featured-content featured-content-bottom">
                                 <div class="featured-title">
@@ -194,7 +194,8 @@
                                 </div>
                                 <div class="featured-desc">
                                     <p>Our Cardiology hospital utilizes state-of-the-art technology and employs a team of true experts.</p>
-                                    <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-5" href="#">READ MORE</a>
+                                    <router-link to="/poultry-subscription" tag="a" class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-5">READ MORE </router-link>
+                                    <!-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-5" href="#">READ MORE</a> -->
                                 </div>
                             </div>
                         </div><!-- featured-imagebox end-->
@@ -203,7 +204,7 @@
                         <!--featured-imagebox-->
                         <div class="featured-imagebox ttm-box-view-top-image box-shadow res-991-mb-30">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/services/02.jpg" alt="">
+                                <img class="img-fluid" src="/img/fish.png" alt="">
                             </div>
                             <div class="featured-content featured-content-bottom">
                                 <div class="featured-title">
@@ -211,7 +212,8 @@
                                 </div>
                                 <div class="featured-desc">
                                     <p>Our Cardiology hospital utilizes state-of-the-art technology and employs a team of true experts.</p>
-                                    <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-5" href="#">READ MORE</a>
+                                    <router-link to="/fishery-subscription" tag="a" class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-5">READ MORE </router-link>
+                                    <!-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-5" href="#">READ MORE</a> -->
                                 </div>
                             </div>
                         </div><!-- featured-imagebox end-->
@@ -220,7 +222,7 @@
                         <!--featured-imagebox-->
                         <div class="featured-imagebox ttm-box-view-top-image box-shadow res-991-mb-30">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/services/03.jpg" alt="">
+                                <img class="img-fluid" src="/img/oil.png" alt="">
                             </div>
                             <div class="featured-content featured-content-bottom">
                                 <div class="featured-title">
@@ -228,7 +230,8 @@
                                 </div>
                                 <div class="featured-desc">
                                     <p>Our nurology hospital utilizes state-of-the-art technology and employs a team of true experts.</p>
-                                    <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-5" href="#">READ MORE</a>
+                                    <router-link to="/cashcrop-subscription" tag="a" class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-5">READ MORE </router-link>
+                                    <!-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-5" href="#">READ MORE</a> -->
                                 </div>
                             </div>
                         </div><!-- featured-imagebox end-->
@@ -299,24 +302,24 @@
                         <div class="featured-imagebox featured-imagebox-portfolio">
                             <!-- featured-thumbnail -->
                             <div class="featured-thumbnail">
-                                <a href="#"> <img class="img-fluid" src="images/portfolio/01.jpg" alt="image"></a>
+                                <a href="#"> <img class="img-fluid" src="/img/fam.png" alt="image"></a>
                             </div><!-- featured-thumbnail end-->
                             <!-- ttm-box-view-overlay -->
                             <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
-                                    <a class="ttm_prettyphoto ttm_image" title="Fitness Guidance to Patient" data-rel="prettyPhoto" href="images/portfolio/01.jpg">
+                                    <a class="ttm_prettyphoto ttm_image" title="Farm Estate" data-rel="prettyPhoto" href="/img/fam.png">
                                         <i class="ti ti-search"></i>
                                     </a>
                                 </div>
                                 <div class="ttm-box-view-content-inner">
                                     <div class="featured-content featured-content-portfolio">
                                         <div class="featured-title">
-                                            <h5><a href="single-style-1.html">Fitness Guidance to Patient</a></h5>
+                                            <h5><a href="#">Farmland Estate</a></h5>
                                         </div>
-                                        <span class="category">
-                                            <a href="portfolio-category.html">Cardiology</a>,
-                                            <a href="portfolio-category.html">Oncology</a>
-                                        </span>
+                                        <!-- <span class="category">
+                                            <a href="#">Cardiology</a>,
+                                            <a href="#">Oncology</a>
+                                        </span> -->
                                     </div>
                                 </div>
                             </div><!-- ttm-box-view-overlay end-->
@@ -327,24 +330,24 @@
                         <div class="featured-imagebox featured-imagebox-portfolio">
                             <!-- featured-thumbnail -->
                             <div class="featured-thumbnail">
-                                <a href="#"> <img class="img-fluid" src="images/portfolio/02.jpg" alt="image"></a>
+                                <a href="#"> <img class="img-fluid" src="/img/wok.png" alt="image"></a>
                             </div><!-- featured-thumbnail end-->
                             <!-- ttm-box-view-overlay -->
                             <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
-                                    <a class="ttm_prettyphoto ttm_image" title="Diagnostic Imagine" data-rel="prettyPhoto" href="images/portfolio/02.jpg">
+                                    <a class="ttm_prettyphoto ttm_image" title="Workers on the farm" data-rel="prettyPhoto" href="/img/wok.png">
                                         <i class="ti ti-search"></i>
                                     </a>
                                 </div>
                                 <div class="ttm-box-view-content-inner">
                                     <div class="featured-content featured-content-portfolio">
                                         <div class="featured-title">
-                                            <h5><a href="single-style-3.html">Diagnostic Imagine</a></h5>
+                                            <h5><a href="#">Workers on the farm</a></h5>
                                         </div>
-                                        <span class="category">
+                                        <!-- <span class="category">
                                             <a href="portfolio-category.html">Orthopedics</a>,
                                             <a href="portfolio-category.html">Pharmacy</a>
-                                        </span>
+                                        </span> -->
                                     </div>
                                 </div>
                             </div><!-- ttm-box-view-overlay end-->
@@ -355,24 +358,24 @@
                         <div class="featured-imagebox featured-imagebox-portfolio">
                             <!-- featured-thumbnail -->
                             <div class="featured-thumbnail">
-                                <a href="#"> <img class="img-fluid" src="images/portfolio/03.jpg" alt="image"></a>
+                                <a href="#"> <img class="img-fluid" src="/img/work.png" alt="image"></a>
                             </div><!-- featured-thumbnail end-->
                             <!-- ttm-box-view-overlay -->
                             <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
-                                    <a class="ttm_prettyphoto ttm_image" title="Orthodontics Surgery & Transplants" data-rel="prettyPhoto" href="images/portfolio/03.jpg">
+                                    <a class="ttm_prettyphoto ttm_image" title="FArm" data-rel="prettyPhoto" href="/img/work.png">
                                         <i class="ti ti-search"></i>
                                     </a>
                                 </div>
                                 <div class="ttm-box-view-content-inner">
                                     <div class="featured-content featured-content-portfolio">
                                         <div class="featured-title">
-                                            <h5><a href="single-style-3.html">Orthodontics Surgery & Transplants</a></h5>
+                                            <h5><a href="#">Workers at lemongrass farm</a></h5>
                                         </div>
-                                        <span class="category">
+                                        <!-- <span class="category">
                                             <a href="portfolio-category.html">Anesthesiology</a>,
                                             <a href="portfolio-category.html">Orthopedics</a>
-                                        </span>
+                                        </span> -->
                                     </div>
                                 </div>
                             </div><!-- ttm-box-view-overlay end-->
@@ -383,24 +386,24 @@
                         <div class="featured-imagebox featured-imagebox-portfolio">
                             <!-- featured-thumbnail -->
                             <div class="featured-thumbnail">
-                                <a href="#"> <img class="img-fluid" src="images/portfolio/04.jpg" alt="image"></a>
+                                <a href="#"> <img class="img-fluid" src="/img/rab.png" alt="image"></a>
                             </div><!-- featured-thumbnail end-->
                             <!-- ttm-box-view-overlay -->
                             <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
-                                    <a class="ttm_prettyphoto ttm_image" title="Rehabilitation Center" data-rel="prettyPhoto" href="images/portfolio/04.jpg">
+                                    <a class="ttm_prettyphoto ttm_image" title="Rabbit" data-rel="prettyPhoto" href="/img/rab.png">
                                         <i class="ti ti-search"></i>
                                     </a>
                                 </div>
                                 <div class="ttm-box-view-content-inner">
                                     <div class="featured-content featured-content-portfolio">
                                         <div class="featured-title">
-                                            <h5><a href="single-style-3.html">Rehabilitation Center</a></h5>
+                                            <h5><a href="#">Rabbitery Center</a></h5>
                                         </div>
-                                        <span class="category">
+                                        <!-- <span class="category">
                                             <a href="portfolio-category.html">Cardiology</a>,
                                             <a href="portfolio-category.html">Pharmacy</a>
-                                        </span>
+                                        </span> -->
                                     </div>
                                 </div>
                             </div><!-- ttm-box-view-overlay end-->
@@ -411,24 +414,24 @@
                         <div class="featured-imagebox featured-imagebox-portfolio">
                             <!-- featured-thumbnail -->
                             <div class="featured-thumbnail">
-                                <a href="#"> <img class="img-fluid" src="images/portfolio/05.jpg" alt="image"></a>
+                                <a href="#"> <img class="img-fluid" src="/img/gal.png" alt="image"></a>
                             </div><!-- featured-thumbnail end-->
                             <!-- ttm-box-view-overlay -->
                             <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
-                                    <a class="ttm_prettyphoto ttm_image" title="Blood Pressure Checkup" data-rel="prettyPhoto" href="images/portfolio/05.jpg">
+                                    <a class="ttm_prettyphoto ttm_image" title="working on the farm" data-rel="prettyPhoto" href="/img/gal.png">
                                         <i class="ti ti-search"></i>
                                     </a>
                                 </div>
                                 <div class="ttm-box-view-content-inner">
                                     <div class="featured-content featured-content-portfolio">
                                         <div class="featured-title">
-                                            <h5><a href="single-style-3.html">Blood Pressure Checkup</a></h5>
+                                            <h5><a href="#">Harvesting</a></h5>
                                         </div>
-                                        <span class="category">
+                                        <!-- <span class="category">
                                             <a href="portfolio-category.html">Anesthesiology</a>,
                                             <a href="portfolio-category.html">Pediatric</a>
-                                        </span>
+                                        </span> -->
                                     </div>
                                 </div>
                             </div><!-- ttm-box-view-overlay end-->
@@ -439,24 +442,24 @@
                         <div class="featured-imagebox featured-imagebox-portfolio">
                             <!-- featured-thumbnail -->
                             <div class="featured-thumbnail">
-                                <a href="#"> <img class="img-fluid" src="images/portfolio/06.jpg" alt="image"></a>
+                                <a href="#"> <img class="img-fluid" src="/img/mac.png" alt="image"></a>
                             </div><!-- featured-thumbnail end -->
                             <!-- ttm-box-view-overlay -->
                             <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
-                                    <a class="ttm_prettyphoto ttm_image" title="Dentures / Partial Dentures" data-rel="prettyPhoto" href="images/portfolio/06.jpg">
+                                    <a class="ttm_prettyphoto ttm_image" title="oil processing" data-rel="prettyPhoto" href="/img/mac.png">
                                         <i class="ti ti-search"></i>
                                     </a>
                                 </div>
                                 <div class="ttm-box-view-content-inner">
                                     <div class="featured-content featured-content-portfolio">
                                         <div class="featured-title">
-                                            <h5><a href="single-style-3.html">Dentures / Partial Dentures</a></h5>
+                                            <h5><a href="#">Essential oil extraction</a></h5>
                                         </div>
-                                        <span class="category">
+                                        <!-- <span class="category">
                                             <a href="portfolio-category.html">Oncology</a>,
                                             <a href="portfolio-category.html">Pharmacy</a>
-                                        </span>
+                                        </span> -->
                                     </div>
                                 </div>
                             </div><!-- ttm-box-view-overlay end-->
