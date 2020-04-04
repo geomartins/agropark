@@ -17,6 +17,12 @@
         <slot name='main_content'></slot>
     </div><!--site-main end-->
 
+
+     <!--site-main-sigle start-->
+    <div class="site-main single">
+        <slot name='main_content_single'></slot>
+    </div><!--site-main end-->
+
     <app-footer></app-footer>
     <app-back-to-top></app-back-to-top>
 
