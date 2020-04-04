@@ -101,6 +101,12 @@ export default new Router({
         import( "./views/OurTeam.vue")
     },
     {
+      path: "/asset-management",
+      name: "AssetManagement",
+      component: () =>
+        import( "./views/AssetManagement.vue")
+    },
+    {
       path: "/team-details/:name",
       name: "TeamDetails",
       component: () =>
