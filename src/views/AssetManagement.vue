@@ -1,0 +1,236 @@
+<template>
+   <app-master>
+
+       <div slot='breadcrumb'>
+         <app-breadcrumb>
+             <div class="title-box ttm-textcolor-white">
+                `<div class="page-title-heading">
+                    <h1 class="title">Asset Management</h1>
+                </div><!-- /.page-title-captions -->
+                <div class="breadcrumb-wrapper">
+                    <div class="container">
+                        <div class="breadcrumb-wrapper-inner">
+                            <span>
+                                <router-link class="home" title='Go to AgroPark' to='/'><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home </router-link>
+                            </span>
+                            <span class="ttm-bread-sep">&nbsp; | &nbsp;</span>
+                            <span>Asset Management</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+         </app-breadcrumb>
+       </div>
+        
+
+
+
+      <div slot='main_content'>
+
+         <!--introduction-section-->
+        <section class="ttm-row introduction-section clearfix">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-xs-12">
+                        <div class="pt-50 res-991-pt-0">
+                            <!-- section title -->
+                            <div class="section-title clearfix">
+                                <div class="title-header">
+                                    <h5>OUR MEDICAL</h5>
+                                    <h2 class="title">We’re Setting the Standards in Research & Clinical Care</h2>
+                                </div>
+                            </div><!-- section title end -->
+                            <div class="mb-30 clearfix">
+                                <p>We provide the most full medical services, so every person could have the opportunity to receive qualitative medical help. Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the USA with over 35 years of quality training and experience.</p>
+                            </div>
+                            <h5>Delmont Special Features</h5>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
+                                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Adult Trauma Center</span></li>
+                                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Birthing and Lactation Classes</span></li>
+                                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Dental and Oral Surgery</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-6">
+                                    <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
+                                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Children's Trauma Center</span></li>
+                                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Heart and Vascular Institute</span></li>
+                                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Plastic Surgery</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="mt-25 res-991-mt-0 res-991-mb-40">
+                                        <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-black mr-15 mt-15" href="#">VIEW MORE</a>
+                                        <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor mt-15" href="#">CONTACT US!</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-xs-12">
+                        <!-- ttm_single_image-wrapper -->
+                        <div class="ttm_single_image-wrapper text-right">
+                            <img class="img-fluid" src="images/single-img-twel.jpg" alt="">
+                        </div>
+                        <div class="about-overlay-shape">
+                            <div class="row">
+                                <div class="col-lg-2 col-sm-3"></div>
+                                <div class="col-lg-10 col-sm-6">
+                                    <div class="about-content ttm-col-bgcolor-yes ttm-bg ttm-bgcolor-darkgrey mt_50 pl-35 pt-15 ttm-textcolor-white">
+                                        <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                                        <div class="layer-content">
+                                            <h5 class="font-weight-normal mb-10">We <span class="ttm-textcolor-skincolor"> &nbsp;<i class="fa fa-heart-o"></i>&nbsp; </span> To Care our <span class="ttm-textcolor-skincolor"> Patients !</span></h5>
+                                        </div>
+                                    </div><!-- ttm_single_image-wrapper end -->
+                                </div>
+                                <div class="col-sm-3"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- row end -->
+            </div>
+        </section>
+        <!--introduction-section end-->
+
+
+
+
+        
+<section class="ttm-row pb-70 res-991-pb-20 clearfix" style="padding-top: 10px">
+            <div class="container">
+                <!-- row -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="ttm-tabs">
+
+                            <div class="content-tab pt-20">
+                                <!-- content-inner -->
+                                <div class="content-inner active">
+                                    <div class="row multi-columns-row ttm-boxes-row-wrapper">
+                                       <div class="ttm-box-col-wrapper col-lg-4 col-md-4 col-sm-6">
+                                            <!-- featured-imagebox -->
+                                            <div class="featured-imagebox featured-imagebox-portfolio ttm-box-view-top-image ttm-box-view-top-image">
+                                                <div class="ttm-box-view-content-inner">
+                                                    <!-- featured-thumbnail -->
+                                                    <div class="featured-thumbnail">
+                                                        <a href="#"> <img class="img-fluid" src="images/portfolio/01.jpg" alt="image"></a>
+                                                    </div><!-- featured-thumbnail end-->
+                                                    <!-- ttm-box-view-overlay -->
+                                                    <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
+                                                        <div class="featured-iconbox ttm-media-link">
+                                                            <a class="ttm_prettyphoto ttm_image" title="Fitness Guidance to Patient" data-rel="prettyPhoto" href="images/portfolio/01.jpg">
+                                                                <i class="ti ti-search"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div><!-- ttm-box-view-overlay end-->
+                                                </div>
+                                                <div class="ttm-box-bottom-content featured-content-portfolio box-shadow">
+                                                    <div class="featured-title">
+                                                        <h5><a href="single-style-1.html">Poultry Subscription</a></h5>
+                                                    </div>
+                                                    <span class="category">
+                                                        <a href="portfolio-category.html">Cardiology</a>,
+                                                        <a href="portfolio-category.html">Oncology</a>
+                                                    </span>
+                                                </div>
+                                            </div><!-- featured-imagebox -->
+                                        </div>
+                                        <div class="ttm-box-col-wrapper col-lg-4 col-md-4 col-sm-6">
+                                            <!-- featured-imagebox -->
+                                            <div class="featured-imagebox featured-imagebox-portfolio ttm-box-view-top-image">
+                                                <div class="ttm-box-view-content-inner">
+                                                    <!-- featured-thumbnail -->
+                                                    <div class="featured-thumbnail">
+                                                        <a href="#"> <img class="img-fluid" src="images/portfolio/02.jpg" alt="image"></a>
+                                                    </div><!-- featured-thumbnail end-->
+                                                    <!-- ttm-box-view-overlay -->
+                                                    <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
+                                                        <div class="featured-iconbox ttm-media-link">
+                                                            <a class="ttm_prettyphoto ttm_image" title="Diagnostic Imagine" data-rel="prettyPhoto" href="images/portfolio/02.jpg">
+                                                                <i class="ti ti-search"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div><!-- ttm-box-view-overlay end-->
+                                                </div>
+                                                <div class="ttm-box-bottom-content featured-content-portfolio box-shadow">
+                                                    <div class="featured-title">
+                                                        <h5><a href="portfolio-style-3.html">Fishery Subscription</a></h5>
+                                                    </div>
+                                                    <span class="category">
+                                                        <a href="portfolio-category.html">Orthopedics</a>,
+                                                        <a href="portfolio-category.html">Pharmacy</a>
+                                                    </span>
+                                                </div>
+                                            </div><!-- featured-imagebox -->
+                                        </div>
+                                        <div class="ttm-box-col-wrapper col-lg-4 col-md-4 col-sm-6">
+                                            <!-- featured-imagebox -->
+                                            <div class="featured-imagebox featured-imagebox-portfolio ttm-box-view-top-image">
+                                                <div class="ttm-box-view-content-inner">
+                                                    <!-- featured-thumbnail -->
+                                                    <div class="featured-thumbnail">
+                                                        <a href="#"> <img class="img-fluid" src="images/portfolio/03.jpg" alt="image"></a>
+                                                    </div><!-- featured-thumbnail end-->
+                                                    <!-- ttm-box-view-overlay -->
+                                                    <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
+                                                        <div class="featured-iconbox ttm-media-link">
+                                                            <a class="ttm_prettyphoto ttm_image" title="Orthodontics Surgery &amp; Transplants" data-rel="prettyPhoto" href="images/portfolio/03.jpg">
+                                                                <i class="ti ti-search"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div><!-- ttm-box-view-overlay end-->
+                                                </div>
+                                                <div class="ttm-box-bottom-content featured-content-portfolio box-shadow">
+                                                    <div class="featured-title">
+                                                        <h5><a href="portfolio-style-3.html">Cash Crop Subscription</a></h5>
+                                                    </div>
+                                                    <span class="category">
+                                                        <a href="portfolio-category.html">Anesthesiology</a>,
+                                                        <a href="portfolio-category.html">Orthopedics</a>
+                                                    </span>
+                                                </div>
+                                            </div><!-- featured-imagebox -->
+                                        </div>
+                                      
+                                    </div><!-- row end -->
+                                </div>
+
+
+
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- row end -->
+            </div>
+        </section>
+
+         
+        
+      </div>
+
+   </app-master>
+</template>
+
+<script>
+// @ is an alias to /src
+import Master from "@/components/Master.vue"
+import Breadcrumb from "@/components/Breadcrumb.vue"
+import { seo } from "../Repositories/seo"
+
+export default {
+  name: "AssetManagement",
+  mixins: [seo],
+  components: {
+    "app-master" : Master,
+    "app-breadcrumb" : Breadcrumb
+
+  },
+  created(){
+      this.seoMetaData('Asset Management', '');
+  }
+
+};
+</script>
