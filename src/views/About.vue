@@ -335,14 +335,14 @@
                         <!-- acadion -->
                         <div class="accordion mb-15 res-991-mb-40 pr-20 res-991-pr-0">
                             <!-- toggle -->
-                            <div class="toggle ttm-style-classic">
-                                <div class="toggle-title">
+                            <div class="toggle ttm-style-classic active">
+                                <div class="toggle-title " @click="accordion($event)" >
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" >
                                         <i class="flaticon-dentist-1"></i>
                                         <span class="ttm-title-text">Kids Dentist</span>
                                     </a>
                                 </div>
-                                <div class="toggle-content">
+                                <div class="toggle-content show">
                                     <div class="row">
                                         <div class="col-sm-5">
                                             <div class="toggle-figure pr-10 res-991-mb-15">
@@ -360,7 +360,7 @@
                             </div><!-- toggle end -->
                             <!-- toggle -->
                             <div class="toggle ttm-style-classic">
-                                <div class="toggle-title">
+                                <div class="toggle-title" @click="accordion($event)">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" >
                                         <i class="flaticon-hygiene"></i>
                                         <span class="ttm-title-text">Oral surgery</span>
@@ -384,7 +384,7 @@
                             </div><!-- toggle end -->
                             <!-- toggle -->
                             <div class="toggle ttm-style-classic">
-                                <div class="toggle-title">
+                                <div class="toggle-title" @click="accordion($event)">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" >
                                         <i class="flaticon-charity"></i>
                                         <span class="ttm-title-text">Orthodontics</span>
@@ -485,9 +485,48 @@ export default {
     "app-breadcrumb" : Breadcrumb
 
   },
+  methods:{
+      accordion(event){
+          let parentElement = event.target.parentElement.parentElement;
+          if(!Array.from(parentElement.classList).includes("ttm-style-classic")){
+              parentElement = parentElement.parentElement;
+          }
+
+          let parentElementClassList = Array.from(parentElement.classList);
+          let childElement = parentElement.childNodes[1];
+          let childElementClassList = Array.from(childElement.classList);
+
+
+          
+          if(parentElementClassList.includes('active')){
+              parentElement.classList.remove("active")
+          }else{
+               parentElement.classList.add("active")
+          }
+
+
+          if(childElementClassList.includes('show')){
+             childElement.classList.remove("show")
+          }else{
+              childElement.classList.add("show")
+          }
+
+
+
+
+        //   console.log(parentElementClassList)
+      }
+  },
   created(){
       this.seoMetaData('About Us', '');
   }
 
 };
 </script>
+
+
+<style scoped>
+  .show{
+      display: block;
+  }
+</style>
