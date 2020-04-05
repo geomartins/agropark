@@ -43,7 +43,7 @@
                                                 <h5>Green Asset Management</h5>
                                             </div>
                                             <div class="featured-desc">
-                                                <p>Our Delmont hospital utilizes state-of-the-art technology and employs a team of true experts.</p>
+                                                <p>For something to be a green asset, it must have social, economic, and environmental</p>
                                                 <router-link to="/asset-management" tag="a" class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-15"> VIEW MORE </router-link>
                                                 <!-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-15" href="#">VIEW MORE</a> -->
                                             </div>
@@ -194,7 +194,7 @@
                                         <router-link to="/poultry-subscription" tag="a"> Livestock </router-link> </h5>
                                 </div>
                                 <div class="featured-desc">
-                                    <p>Our Cardiology hospital utilizes state-of-the-art technology and employs a team of true experts.</p>
+                                    <p>Raised in an agricultural setting, our livestock animals include poultry, pig, goat, rabbit, snail, and grasscutter. </p>
                                     <router-link to="/poultry-subscription" tag="a" class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-5">READ MORE </router-link>
                                     <!-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-5" href="#">READ MORE</a> -->
                                 </div>
@@ -260,8 +260,8 @@
                             <div class="mb-20">
                                 <h1 class="ttm-textcolor-white">Just make an Appointment & You’re Done!</h1>
                             </div>
-                            <h3 class="ttm-textcolor-white font-weight-normal">Get Your Quote or Call: (0080) 123-453-789</h3>
-                            <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor mt-30" href="#">GET AN APPOINTMENT</a>
+                            <h3 class="ttm-textcolor-white font-weight-normal">Get Your Quote or Call: (+234) 701 212 1096</h3>
+                            <router-link tag="a" to="/contact" class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor mt-30">GET IN TOUCH </router-link>
                         </div>
                     </div>
                 </div>
@@ -285,8 +285,7 @@
                         </div><!-- section-title end -->
                     </div>
                     <div class="col-lg-3 col-md-12">
-                        <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-black mb-30 mt-45 res-991-mt-0 float-right" href="#">VIEW MORE TIPS</a>
-                    </div>
+                        <router-link tag="a" to="/gallery" class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-black mb-30 mt-45 res-991-mt-0 float-right">VIEW MORE</router-link>                 </div>
                 </div><!-- row end -->
                 <div class="row">
                     <div class="col-lg-12">
@@ -574,20 +573,21 @@
                             <div class="section-title with-desc clearfix">
                                 <div class="title-header">
                                     <h5>WE PROVIDE</h5>
-                                    <h2 class="title">Total Health Care Main Service</h2>
+                                    <h2 class="title">FARMLAND PROFESSIONAL SEVICES</h2>
                                 </div>
-                                <div class="title-desc">We provide the most full medical services, so every person could have the opportunity to receive qualitative medical help.</div>
+                                <div class="title-desc">We Acquire, Develop, and Manage diversified farmland and rural property for individuals, corporate organizations and institutional investors.</div>
                             </div><!-- section title end -->
                             <div class="mt_10 mb-25">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="featured-icon-box">
                                             <div class="featured-content">
-                                                <div class="featured-title">
+                                                <!-- <div class="featured-title">
                                                     <h5>DNA Testing</h5>
-                                                </div>
+                                                </div> -->
                                                 <div class="featured-desc">
-                                                    <p>All our surgeries are furnished with state of the art equipment&nbsp;&nbsp;<u><a href="#">Read More…</a></u></p>
+                                                    <!-- <p>We Acquire, Develop, and Manage livestock and aquaculture production.&nbsp;&nbsp;<u><a href="#">Read More…</a></u></p> -->
+                                                    <p>We Acquire, Develop, and Manage livestock and aquaculture production.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -595,11 +595,11 @@
                                     <div class="col-md-6">
                                         <div class="featured-icon-box">
                                             <div class="featured-content">
-                                                <div class="featured-title">
+                                                <!-- <div class="featured-title">
                                                     <h5>Prosthodontics</h5>
-                                                </div>
+                                                </div> -->
                                                 <div class="featured-desc">
-                                                    <p>During our 25 years in business, we’ve gathered a seasoned&nbsp;&nbsp;<u><a href="#">Read More…</a></u></p>
+                                                    <p>We Acquire, Partner, and Undertake existing agricultural infrastructure not yielding expected returns. </p>
                                                 </div>
                                             </div>
                                         </div>
@@ -613,10 +613,22 @@
                                         <div class="featured-icon-box">
                                             <div class="featured-content">
                                                 <div class="featured-title">
-                                                    <h5>Cosmetic Dentistry</h5>
+                                                    <h5>Agricultural Community Development Project (ACD)</h5>
                                                 </div>
                                                 <div class="featured-desc">
-                                                    <p>Clinical excellence, diversity, and the&nbsp; access is to provide innovative technology are all hallmarks of graduate medical education experience at the Delmont. Our residents, fellows,Careex&nbsp;&nbsp;<u><a href="#">Read More…</a></u></p>
+                                                    <p>Agricultural Community Development Projects -  We Design, Partner, and Implement. The main objective we desire to achieve with the ACD project is to alleviate extremely poor living conditions of rural people. We aim to improve food security and access to modern amenities in these regions. This process will focus on individual and communal capacity building through the design and implementation of human and social development programmes.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="featured-icon-box">
+                                            <div class="featured-content">
+                                                <div class="featured-title">
+                                                    <h5>Agribusiness Academy</h5>
+                                                </div>
+                                                <div class="featured-desc">
+                                                    <p>The Agribusiness Academy is a professional institution where strong foundations in agricultural technology and business are provided alongside specialized courses which would equip our students to work in any field in the Agriculture sector.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -625,8 +637,10 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-black mr-15 mb-20" href="#">MORE SERVICES</a>
-                                    <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor mb-20" href="#">CONTACT US!</a>
+                                    <router-link tag="a" to="/asset-management" class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-black mr-15 mb-20"> MORE SERVICES </router-link>
+                                    <router-link to="/contact" tag="a" class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor mb-20"> CONTACT US </router-link>
+                                    <!-- <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-black mr-15 mb-20" href="#">MORE SERVICES</a> -->
+                                    <!-- <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor mb-20" href="#">CONTACT US!</a> -->
                                 </div>
                             </div>
                         </div>

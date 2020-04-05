@@ -246,9 +246,9 @@
                             <!-- section title -->
                             <div class="section-title with-desc clearfix">
                                 <div class="title-header">
-                                    <h2 class="title">What We Do!</h2>
+                                    <h2 class="title">What We Do</h2>
                                 </div>
-                                <div class="title-desc">We’ve combined a new kind of doctor’s experience that blends the highest level of health care with exceptional service. People can enroll membership.</div>
+                                <div class="title-desc">Acquisition, development, management of farmland and rural properties.</div>
                             </div><!-- section title end -->
                             <div class="row mt_20">
                                 <div class="col-md-4">
@@ -269,7 +269,7 @@
                                                 <h5>Our Mission</h5>
                                             </div>
                                             <div class="featured-desc">
-                                                <p>Towards healthier Nations</p>
+                                                <p>Sustainable use of farmla.nd and rural properties for global economic growth</p>
                                                 <!-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline" href="#">MORE ABOUT</a> -->
                                             </div>
                                         </div>
@@ -295,7 +295,7 @@
                                                 <h5>Our Vision</h5>
                                             </div>
                                             <div class="featured-desc">
-                                                <p>To be responsive and dynamic organization providing healthier meals for people</p>
+                                                <p>To be the most trusted global brand in farmland and rural property management.</p>
                                                 <!-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline" href="#">MORE ABOUT</a> -->
                                             </div>
                                         </div>
@@ -311,14 +311,14 @@
                         <!-- section-title -->
                         <div class="section-title with-desc clearfix">
                             <div class="title-header">
-                                <h5>OUR BLOG</h5>
-                                <h2 class="title">What We Do Our Big Solutions</h2>
+                                <!-- <h5>OUR BLOG</h5> -->
+                                <h2 class="title">What We Grow</h2>
                             </div>
                             <div class="title-desc">Since its founding Delmont has been providing its patients with the full medical care, encompassing outpatients services, is neurology, laboratory, imaging diagnostics and more.</div>
                         </div><!-- section-title end -->
                     </div>
                     <div class="col-lg-3 col-md-12">
-                        <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-black mb-30 mt-45 res-991-mt-0 float-right" href="#">READ MORE</a>
+                        <!-- <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-black mb-30 mt-45 res-991-mt-0 float-right" href="#">READ MORE</a> -->
                     </div>
                 </div><!-- row end -->
                 <div class="row">
@@ -339,7 +339,7 @@
                                 <div class="toggle-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" >
                                         <i class="flaticon-dentist-1"></i>
-                                        <span class="ttm-title-text">Kids Dentist</span>
+                                        <span class="ttm-title-text">Spices</span>
                                     </a>
                                 </div>
                                 <div class="toggle-content">
@@ -363,7 +363,7 @@
                                 <div class="toggle-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" >
                                         <i class="flaticon-hygiene"></i>
-                                        <span class="ttm-title-text">Oral surgery</span>
+                                        <span class="ttm-title-text">Staple</span>
                                     </a>
                                 </div>
                                 <div class="toggle-content">
@@ -387,7 +387,7 @@
                                 <div class="toggle-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" >
                                         <i class="flaticon-charity"></i>
-                                        <span class="ttm-title-text">Orthodontics</span>
+                                        <span class="ttm-title-text">Tree Crops</span>
                                     </a>
                                 </div>
                                 <div class="toggle-content">
@@ -409,53 +409,69 @@
                         </div><!-- acadion end-->
                     </div>
                     <div class="col-lg-6">
+                        
+                            <div class="title-header">
+                                <!-- <h5>OUR BLOG</h5> -->
+                                <h2 class="title">Core Values</h2>
+                            </div>
+                        
                         <!-- ttm-progress-bar -->
                         <div class="ttm-progress-bar ttm-icon-left-true ttm-icon_element-color-skincolor">
                             <i class="flaticon-clinic"></i>
-                            <h4>Production</h4>
-                            <div class="progress" data-value="85%">
+                            <h4>D</h4>
+                            <div class="progress" data-value=" ">
                                 <div class="progress-bar progress-bar-color-bar_skincolor">
-                                    <div class="progress-parcent"><span>85</span>%</div>
+                                    <div class="progress-parcent"><span>Dependability</span></div>
                                 </div>
                             </div>
                         </div><!-- ttm-progress-bar end -->
                         <!-- ttm-progress-bar -->
                         <div class="ttm-progress-bar ttm-icon-left-true ttm-icon_element-color-skincolor">
                             <i class="flaticon-hygiene"></i>
-                            <h4>Technology</h4>
-                            <div class="progress" data-value="80%">
+                            <h4>I</h4>
+                            <div class="progress" data-value=" ">
                                 <div class="progress-bar progress-bar-color-bar_skincolor">
-                                    <div class="progress-parcent"><span>80</span>%</div>
+                                    <div class="progress-parcent"><span>Integrity</span></div>
                                 </div>
                             </div>
                         </div><!-- ttm-progress-bar end -->
                         <!-- ttm-progress-bar -->
                         <div class="ttm-progress-bar ttm-icon-left-true ttm-icon_element-color-skincolor">
                             <i class="flaticon-care"></i>
-                            <h4>Satisfaction</h4>
-                            <div class="progress" data-value="90%">
+                            <h4>R</h4>
+                            <div class="progress" data-value=" ">
                                 <div class="progress-bar progress-bar-color-bar_skincolor">
-                                    <div class="progress-parcent"><span>90</span>%</div>
+                                    <div class="progress-parcent"><span>Reliability</span></div>
                                 </div>
                             </div>
                         </div><!-- section title end -->
                         <!-- ttm-progress-bar -->
                         <div class="ttm-progress-bar ttm-icon-left-true ttm-icon_element-color-skincolor">
                             <i class="flaticon-doctor-2"></i>
-                            <h4>Service on Time</h4>
-                            <div class="progress" data-value="60%">
+                            <h4>E</h4>
+                            <div class="progress" data-value=" ">
                                 <div class="progress-bar progress-bar-color-bar_skincolor">
-                                    <div class="progress-parcent"><span>60</span>%</div>
+                                    <div class="progress-parcent"><span>Excellence</span></div>
                                 </div>
                             </div>
                         </div><!-- section title end -->
                         <!-- ttm-progress-bar -->
                         <div class="ttm-progress-bar ttm-icon-left-true ttm-icon_element-color-skincolor">
                             <i class="flaticon-pharmacy"></i>
-                            <h4>Cardiac Clinic</h4>
-                            <div class="progress" data-value="90%">
+                            <h4>C</h4>
+                            <div class="progress" data-value=" ">
                                 <div class="progress-bar progress-bar-color-bar_skincolor">
-                                    <div class="progress-parcent"><span>90</span>%</div>
+                                    <div class="progress-parcent"><span>Creativity</span></div>
+                                </div>
+                            </div>
+                        </div><!-- section title end -->
+                        <!-- ttm-progress-bar -->
+                        <div class="ttm-progress-bar ttm-icon-left-true ttm-icon_element-color-skincolor">
+                            <i class="flaticon-pharmacy"></i>
+                            <h4>T</h4>
+                            <div class="progress" data-value=" ">
+                                <div class="progress-bar progress-bar-color-bar_skincolor">
+                                    <div class="progress-parcent"><span>Tenacity</span></div>
                                 </div>
                             </div>
                         </div><!-- section title end -->

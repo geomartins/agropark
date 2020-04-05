@@ -166,7 +166,7 @@
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]">Committed To 
+                            data-paddingleft="[0,0,0,0]">Rear Animals that 
                         </div>
 
                         <div class="tp-caption slide-main-text tp-resizeme" id="slide-17-layer-9" data-x="['left','left','center','center']" data-hoffset="['50','40','0','0']" data-y="['top','top','top','top']" data-voffset="['295','271','170','134']"
@@ -184,7 +184,7 @@
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]">Trusted Health Care 
+                            data-paddingleft="[0,0,0,0]">are 100% Naturally bred
                         </div>
 
                         <div class="tp-caption slide-desc-text tp-resizeme" id="slide-17-layer-10" data-x="['left','left','center','left']" data-hoffset="['50','40','-664','-579']" data-y="['top','top','top','top']" data-voffset="['386','362','214','233']"
@@ -206,7 +206,7 @@
                             data-paddingleft="[0,0,0,0]">"agriclture not only gives riches to a nation,<br> but the only riches she can call her own" Samuel Johnson 
                         </div>
 
-                        <a class="tp-caption dark-flatborder-button" href="#" target="_self" id="slide-17-layer-14" data-x="['left','left','center','center']" data-hoffset="['50','41','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['151','151','60','52']"
+                        <router-link tag="a" to="/poultry-subscription" class="tp-caption dark-flatborder-button" id="slide-17-layer-14" data-x="['left','left','center','center']" data-hoffset="['50','41','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['151','151','60','52']"
                             data-fontsize="['13','13','13','11']"
                             data-lineheight="['13','13','13','11']"
                             data-fontweight="700"
@@ -222,7 +222,7 @@
                             data-paddingright="[30,30,30,25]"
                             data-paddingbottom="[19,19,19,15]"
                             data-paddingleft="[30,30,30,25]">VIEW MORE DETAILS 
-                        </a>
+                        </router-link>
 
                         <a class="tp-caption shape-round ttm-video-icon ttm_prettyphoto" href="https://youtu.be/e13TGGccvT4" target="_self" id="slide-17-layer-15" data-x="['left','left','center','center']" data-hoffset="['289','251','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['151','151','126','112']"
 
