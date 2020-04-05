@@ -240,7 +240,7 @@
                             </div>
                             <!-- ttm-info-widget end -->
                             <div class="ttm-contact">
-                                <span class="icon"><i class="fa fa-phone"></i></span>Toll Free : 1 123 456 78910
+                                <span class="icon"><i class="fa fa-phone"></i></span>Call Us : +234 906 282 2257
                             </div>
                         </div>
                     </div>
