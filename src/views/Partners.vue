@@ -4,7 +4,7 @@
        <div slot='breadcrumb'>
          <app-breadcrumb>
              <div class="title-box ttm-textcolor-white">
-                `<div class="page-title-heading">
+                <div class="page-title-heading">
                     <h1 class="title">Partners</h1>
                      <h3 class="subtitle">Our Partners</h3>
                 </div><!-- /.page-title-captions -->
