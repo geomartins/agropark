@@ -215,16 +215,16 @@
                                         <i class="fa fa-hospital-o"></i>
                                     </div>
                                     <div class="header-content">
-                                        <h3>Number 2 Hospital</h3>
-                                        <p>In United States</p>
+                                        <h3>Number 1 Agri Hub</h3>
+                                        <p>In Nigeria</p>
                                     </div>
                                 </div>
                                 <div class="header-widget">
                                     <div class="header-icon">
-                                        <i class="fa fa-user-md"></i>
+                                        <i class="fa fa-user"></i>
                                     </div>
                                     <div class="header-content">
-                                        <h3>Personal Cabinet</h3>
+                                        <h3>24/7 Client Support</h3>
                                         <p>Qualified Staff</p>
                                     </div>
                                 </div>
@@ -233,8 +233,8 @@
                                         <i class="fa fa-thumbs-o-up"></i>
                                     </div>
                                     <div class="header-content">
-                                        <h3>Get Result Online</h3>
-                                        <p>Satisfied Patients</p>
+                                        <h3>Guaranteed Returns</h3>
+                                        <p>Satisfied Customers</p>
                                     </div>
                                 </div>
                             </div>
