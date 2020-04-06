@@ -58,7 +58,7 @@
                                         </div>
                                         <div class="featured-content">
                                             <div class="featured-title">
-                                                <h5>Our Projects</h5>
+                                                <h5>Our Products</h5>
                                             </div>
                                             <div class="featured-desc">
                                                 <p>Our Delmont hospital utilizes state-of-the-art technology and employs a team of true experts.</p>
@@ -616,6 +616,8 @@
                                                     <h5>Agricultural Community Development Project (ACD)</h5>
                                                 </div>
                                                 <div class="featured-desc">
+                                                    <p>As part of our corporate social responsibility, we aim to improve the quality of life of the people in the communities which we have businesses. We have designed programmes that will empower underprivileged youth as well as drive community action, social change, and other sustainability initiatives. 
+Together with our purpose-oriented employees, we pioneer projects that will inspire the way to a more socially responsible business world.</p>
                                                     <p>Agricultural Community Development Projects -  We Design, Partner, and Implement. The main objective we desire to achieve with the ACD project is to alleviate extremely poor living conditions of rural people. We aim to improve food security and access to modern amenities in these regions. This process will focus on individual and communal capacity building through the design and implementation of human and social development programmes.</p>
                                                 </div>
                                             </div>

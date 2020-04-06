@@ -40,9 +40,9 @@
                         <div class="section-title with-desc clearfix">
                             <div class="title-header">
                                 <h5>MEET OUR EXPERIENCED TEAM</h5>
-                                <h2 class="title">Our Dedicated Doctors Team</h2>
+                                <h2 class="title">Our Professional Team</h2>
                             </div>
-                            <div class="title-desc">We offer extensive medical procedures to outbound and inbound patients what it is and we are very proud of achievement of our staff, We are all work together to help our all patients for recovery</div>
+                            <div class="title-desc">Our professional team works with decades of combined experience in the fields of business management, operations, finance, client service, and consultancy.</div>
                         </div><!-- section-title end -->
                     </div>
                     <div class="col-lg-2 col-md-2"></div>
