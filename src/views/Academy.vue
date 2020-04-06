@@ -44,7 +44,7 @@
                             <div class="section-title clearfix">
                                 <div class="title-header">
                                     <h5>INTRODUCING</h5>
-                                    <h2 class="title">We Thrive on Building a Healthy Community for All Individuals.</h2>
+                                    <h2 class="title">We contribute significantly to Sector Growth through Human Capacity Building</h2>
                                 </div>
                             </div><!-- section title end -->
                             <div class="mb-25 clearfix">
@@ -95,14 +95,14 @@
                         <!-- section-title -->
                         <div class="section-title with-desc clearfix">
                             <div class="title-header">
-                                <h5>WHAT WE DO</h5>
+                                <h5>TRAIN WITH US</h5>
                                 <h2 class="title">Agribusiness Academy Training Module</h2>
                             </div>
-                            <div class="title-desc">Since its founding Delmont has been providing its patients with the full medical care, encompassing outpatients services, is neurology, laboratory, imaging diagnostics and more.</div>
+                            <div class="title-desc">Agribusiness Academy offer a broad curriculum of Agro-related courses in the fundamentals, practical, financials, entrepreneurship, and networking, with mentoring on how to create business plans and reports, and support to launch your own business.</div>
                         </div><!-- section-title end -->
                     </div>
                     <div class="col-lg-3 col-md-12">
-                        <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-black mb-30 mt-45 res-991-mt-0 float-right" href="#">ALL DEPARTMENTS</a>
+                        <router-link tag="a" to="/agribusiness-academy" class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-black mb-30 mt-45 res-991-mt-0 float-right">ALL DEPARTMENTS</router-link>
                     </div>
                 </div><!-- row end -->
                 <div class="row">
