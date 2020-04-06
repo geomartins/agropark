@@ -176,7 +176,7 @@
                                 <h5>OUR SERVICES</h5>
                                 <h2 class="title">Our High Value Investment Portfolios</h2>
                             </div>
-                            <div class="title-desc">Since its founding Delmont has been providing its patients with the full medical care, encompassing outpatients services, is neurology, laboratory, imaging diagnostics and more.</div>
+                            <div class="title-desc">Our high value investments include short and long-term portfolios with guaranteed returns according to our terms and conditions.</div>
                         </div><!-- section-title end -->
                     </div>
                     <div class="col-lg-2"></div>
@@ -256,11 +256,11 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="action-box text-center">
-                            <h4 class="ttm-textcolor-skincolor font-weight-normal">Need a Doctor for Check-up?</h4>
+                            <h4 class="ttm-textcolor-skincolor font-weight-normal">Interested in our Investment Portfolios?</h4>
                             <div class="mb-20">
-                                <h1 class="ttm-textcolor-white">Just make an Appointment & You’re Done!</h1>
+                                <h1 class="ttm-textcolor-white">Just fill out the Enquiry Form & We’ll Reach Out to You!</h1>
                             </div>
-                            <h3 class="ttm-textcolor-white font-weight-normal">Get Your Quote or Call: (+234) 701 212 1096</h3>
+                            <h3 class="ttm-textcolor-white font-weight-normal">Contact us to get Your Quote or Email : info@agropark.ng</h3>
                             <router-link tag="a" to="/contact" class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor mt-30">GET IN TOUCH </router-link>
                         </div>
                     </div>
@@ -279,9 +279,9 @@
                         <div class="section-title with-desc clearfix">
                             <div class="title-header">
                                 <h5>AWESOME TIPS</h5>
-                                <h2 class="title">Our Latest Health Tips</h2>
+                                <h2 class="title">What We’ve Been up to</h2>
                             </div>
-                            <div class="title-desc">Since its founding Delmont has been providing its patients with the full medical care, encompassing outpatients services, is neurology, laboratory, imaging diagnostics and more.</div>
+                            <div class="title-desc">Since we started out, our processes have been in line with best agricultural practices. The result is that our farm produce are some of the healthiest and affordable on the market.</div>
                         </div><!-- section-title end -->
                     </div>
                     <div class="col-lg-3 col-md-12">
@@ -628,7 +628,7 @@
                                                     <h5>Agribusiness Academy</h5>
                                                 </div>
                                                 <div class="featured-desc">
-                                                    <p>The Agribusiness Academy is a professional institution where strong foundations in agricultural technology and business are provided alongside specialized courses which would equip our students to work in any field in the Agriculture sector.</p>
+                                                    <p>Call it the Tuskegee University of the 21st century. The Agribusiness Academy is a professional institution where strong foundations in agricultural technology and business are provided alongside specialized courses which would equip our students to work in any field in the Agriculture sector.</p>
                                                 </div>
                                             </div>
                                         </div>

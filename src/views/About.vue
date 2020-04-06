@@ -5,9 +5,9 @@
          <app-breadcrumb>
              
              <div class="title-box ttm-textcolor-white">
-                `<div class="page-title-heading">
+                <div class="page-title-heading">
                     <h1 class="title">About Us</h1>
-                    <h3 class="subtitle"> About Our Hospital</h3>
+                    <!-- <h3 class="subtitle"> About Our Hospital</h3> -->
                 </div><!-- /.page-title-captions -->
                 <div class="breadcrumb-wrapper">
                     <div class="container">
@@ -314,7 +314,7 @@
                                 <!-- <h5>OUR BLOG</h5> -->
                                 <h2 class="title">What We Grow</h2>
                             </div>
-                            <div class="title-desc">Since its founding Delmont has been providing its patients with the full medical care, encompassing outpatients services, is neurology, laboratory, imaging diagnostics and more.</div>
+                            <div class="title-desc">Our crops include a wide range of organic farm produce. This accentuates on the amazing health benefits people can get from locally-grown herbs and spices, staples, and perennials.</div>
                         </div><!-- section-title end -->
                     </div>
                     <div class="col-lg-3 col-md-12">
@@ -339,7 +339,7 @@
                                 <div class="toggle-title " @click="accordion($event)" >
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" >
                                         <i class="flaticon-dentist-1"></i>
-                                        <span class="ttm-title-text">Spices</span>
+                                        <span class="ttm-title-text">Staple</span>
                                     </a>
                                 </div>
                                 <div class="toggle-content show">
@@ -351,8 +351,11 @@
                                         </div>
                                         <div class="col-sm-7">
                                             <div class="ml_20 res-991-ml-0">
-                                                <h5>Paediatric dentistry</h5>
-                                                <p>They have experience and qualifications to care for a child’s teeth, gums, and mouth throughout the various stages childhood.</p>
+                                                <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Maize</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Groundnut</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Soya Beans</span></li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </div>
@@ -363,7 +366,7 @@
                                 <div class="toggle-title" @click="accordion($event)">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" >
                                         <i class="flaticon-hygiene"></i>
-                                        <span class="ttm-title-text">Staple</span>
+                                        <span class="ttm-title-text">Spices</span>
                                     </a>
                                 </div>
                                 <div class="toggle-content">
@@ -375,8 +378,23 @@
                                         </div>
                                         <div class="col-sm-7">
                                             <div class="ml_20 res-991-ml-0">
-                                                <h5>Paediatric dentistry</h5>
-                                                <p>They have experience and qualifications to care for a child’s teeth, gums, and mouth throughout the various stages childhood.</p>
+                                                <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Fennel</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Sweet Basil</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Mint Leaves</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Chilli Pepper</span></li>
+                                                  <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Lemon Grass</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Ginger</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Citronella</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Dill</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Sweet Marjoram</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Rosemary</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Turmeric</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Thyme</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Coriander</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Miango Pepper</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Cumin</span></li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </div>
@@ -399,8 +417,11 @@
                                         </div>
                                         <div class="col-sm-7">
                                             <div class="ml_20 res-991-ml-0">
-                                                <h5>Paediatric dentistry</h5>
-                                                <p>They have experience and qualifications to care for a child’s teeth, gums, and mouth throughout the various stages childhood.</p>
+                                                <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Cocoa</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Cashew</span></li>
+                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Oil Palm</span></li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </div>
