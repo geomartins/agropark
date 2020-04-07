@@ -49,12 +49,12 @@
                                             <div class="ttm-pf-detailbox">
                                                 <ul class="ttm-pf-detailbox-list">
                                                     <li class="ttm-pf-details-date">
-                                                        <span class="ttm-pf-left-details"><i class="fa fa-medkit"></i>Research Name </span>
-                                                        <span class="ttm-pf-right-details">Vulputate Cursus</span>
+                                                        <span class="ttm-pf-left-details"><i class="fa fa-medkit"></i>Lease Purchase </span>
+                                                        <span class="ttm-pf-right-details">10 years</span>
                                                     </li>
                                                     <li class="ttm-pf-details-date">
-                                                        <span class="ttm-pf-left-details"><i class="fa fa-user"></i> Patient </span>
-                                                        <span class="ttm-pf-right-details">Andrew Bert</span>
+                                                        <span class="ttm-pf-left-details"><i class="fa fa-user"></i> Outright Purchase </span>
+                                                        <span class="ttm-pf-right-details">90 years</span>
                                                     </li>
                                                     <li class="ttm-pf-details-date">
                                                         <span class="ttm-pf-left-details"><i class="fa fa-user-md"></i>Doctor </span>
@@ -70,7 +70,7 @@
                                                     </li>
                                                     <li class="ttm-pf-details-date">
                                                         <span class="ttm-pf-left-details"><i class="fa fa-map-marker"></i>Location </span>
-                                                        <span class="ttm-pf-right-details">Bulls Stadium, Califorina</span>
+                                                        <span class="ttm-pf-right-details">Ajale-Orile, Abeokuta</span>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -82,11 +82,12 @@
                                 <div class="ttm-portfolio-description">
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <h4>About this project</h4>
+                                            <h4>Did You Know?</h4>
                                             <div class="sep_holder_box width-100 mb-20">
                                                 <span class="sep_holder"><span class="sep_line"></span></span>
                                                 <span class="sep_holder"><span class="sep_line"></span></span>
                                             </div>
+                                            <p> Farmland is a resource to its owner. It becomes an asset when cultivated. Many people and organisations are unable to take advantage of the appreciation of their asset as they are faced with issues such as fertility, maintenance, and ultimately, profitability. This underscores the importance of savvy managers that can help you maximise the appreciation of your asset, and of your returns on investment. </p>
                                             <p>You can own farmland to cultivate any of the available crops through outright acquisition. We provide you a crop advice on available crops for the planting season. Crops have varying life cycle, cost of investment and ROI. Land ownership tenure is 90 years. Please see the crop template for the available crops.</p>
                                             <p>You can also acquire land by leasehold for a period of 10 years for cultivation. Please see template for the prices and the sizes of farmland. </p>
                                         </div>

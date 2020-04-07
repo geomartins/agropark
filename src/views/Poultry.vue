@@ -82,11 +82,13 @@
                                 <div class="ttm-portfolio-description">
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <h4>About this project</h4>
+                                            <h4>Did You Know?</h4>
                                             <div class="sep_holder_box width-100 mb-20">
                                                 <span class="sep_holder"><span class="sep_line"></span></span>
                                                 <span class="sep_holder"><span class="sep_line"></span></span>
                                             </div>
+                                            <p>As one of the major elements of agriculture, livestock farming (also known as animal husbandry) was introduced to the humans who witnessed the transition from a hunter-gatherer system to farming. 
+It is a fact that livestock are important for food production. They are also an effective user of farmland, as they contribute obviously to the yield. We operate a practical crop-livestock integration system that allows the recycling of organic nutrition which results in healthier crops and livestock. </p>
                                             <p>Our Poultry investment is a short- term investment portfolio which involves raising a number of birds (250 birds per Pen) to maturity. The cost of raising the birds to maturity, Pen rental and Insurance cover are stated in the template. You can subscribe for multiply pens. </p>
                                             <p>Please see the template for more details. Alternatively, download Investment breakdown. </p>
                                         </div>
@@ -132,9 +134,8 @@
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-lg-12">
-                                                        <p><img class="alignright img-fluid" src="/img/poul.png" alt="">As one of the major elements of agriculture, livestock farming (also known as animal husbandry) was introduced to the humans who witnessed the transition from a hunter-gatherer system to farming. 
-It is a fact that livestock are important for food production. They are also an effective user of farmland, as they contribute obviously to the yield. We operate a practical crop-livestock integration system that allows the recycling of organic nutrition which results in healthier crops and livestock.</p>
-                                                        <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus posuere posuere ex, ac tincidunt turpis porta id. Aenean sed mauris lacus.&nbsp;&nbsp;It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus posuere posuere ex, ac tincidunt turpis porta id. Aenean sed mauris lacus.&nbsp;&nbsp;It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                                        <p><img class="alignright img-fluid" src="/img/poul.png" alt="">Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus posuere posuere ex, ac tincidunt turpis porta id. Aenean sed mauris lacus.&nbsp;&nbsp;It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus posuere posuere ex, ac tincidunt turpis porta id. Aenean sed mauris lacus.&nbsp;&nbsp;It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                                        
                                                     </div>
                                                 </div>
                                             </div>

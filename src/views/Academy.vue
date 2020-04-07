@@ -98,7 +98,7 @@
                                 <h5>TRAIN WITH US</h5>
                                 <h2 class="title">Agribusiness Academy Training Module</h2>
                             </div>
-                            <div class="title-desc">Agribusiness Academy offer a broad curriculum of Agro-related courses in the fundamentals, practical, financials, entrepreneurship, and networking, with mentoring on how to create business plans and reports, and support to launch your own business.</div>
+                            <div class="title-desc">Agribusiness Academy offer a broad curriculum of Agro-related courses in the fundamentals, practical, financials, entrepreneurship, and networking, with mentoring on how to create business plans and reports, and support to launch your own business. We offer a broad curriculum of Agro-related courses. Training modules are designed to provide sectoral practical learning as well as mentorship, and networking opportunities.</div>
                         </div><!-- section-title end -->
                     </div>
                     <div class="col-lg-3 col-md-12">
