@@ -82,13 +82,12 @@
                                 <div class="ttm-portfolio-description">
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <h4>About this project</h4>
+                                            <h4>Did You Know?</h4>
                                             <div class="sep_holder_box width-100 mb-20">
                                                 <span class="sep_holder"><span class="sep_line"></span></span>
                                                 <span class="sep_holder"><span class="sep_line"></span></span>
                                             </div>
-                                            <p>Cash crop investment is a long- term lease plan (20 years). On one Hectare of Oil palm or Cashew, you can cultivate one Acre of Turmeric in between using the available spaces.</p>
-                                            <p>Return on Turmeric comes every 9 months for 3 years while you await return on Cash crop which matures in 4 years. </p>
+                                            <p>Cash Crop production is one of the pillars of nationalisation and foreign trade in any economy. Cash crops provide raw materials for the other sectors, thereby intensifying and extending employment opportunities to the majority. Local and foreign revenue made from cash crops can empower farm households to create savings and investments, as they facilitate agricultural innovations and development in rural areas. </p>
                                             <p> Please see the template for Oil palm & Cashew </p>
                                         </div>
                                     </div>
@@ -135,8 +134,8 @@
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-lg-12">
-                                                        <p><img class="alignright img-fluid" src="/img/palm.png" alt="">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquet odio non porta laoreet. Vestibulum in dui euismod, molestie quam porta, sagittis arcu. Pellentesque vitae pulvinar urna, in dignissim nulla. Mauris iaculis, tortor sed pharetra varius, purus augue feugiat purus, <a href="#">vitae porta nulla turpis</a> pellentesque dolor.</p>
-                                                        <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus posuere posuere ex, ac tincidunt turpis porta id. Aenean sed mauris lacus.&nbsp;&nbsp;It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus posuere posuere ex, ac tincidunt turpis porta id. Aenean sed mauris lacus.&nbsp;&nbsp;It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                                        <p><img class="alignright img-fluid" src="/img/palm.png" alt="">Cash crop investment is a long- term lease plan (20 years). On one Hectare of Oil palm or Cashew, you can cultivate one Acre of Turmeric in between using the available spaces.</p>
+                                                         <p>Return on Turmeric comes every 9 months for 3 years while you await return on Cash crop which matures in 4 years. </p>
                                                     </div>
                                                 </div>
                                             </div>

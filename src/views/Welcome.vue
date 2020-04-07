@@ -212,7 +212,7 @@
                                     <h5><router-link to="/fishery-subscription" tag="a"> Aquaculture </router-link></h5>
                                 </div>
                                 <div class="featured-desc">
-                                    <p>Our Cardiology hospital utilizes state-of-the-art technology and employs a team of true experts.</p>
+                                    <p>Let us introduce you to Tilapia fish farming. Tilapia is one of the most relished aquatic foods in the world. Today, it is the second</p>
                                     <router-link to="/fishery-subscription" tag="a" class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-5">READ MORE </router-link>
                                     <!-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-5" href="#">READ MORE</a> -->
                                 </div>
@@ -573,9 +573,9 @@
                             <div class="section-title with-desc clearfix">
                                 <div class="title-header">
                                     <h5>WE PROVIDE</h5>
-                                    <h2 class="title">FARMLAND PROFESSIONAL SEVICES</h2>
+                                    <h2 class="title">Agricultural Property Managers </h2>
                                 </div>
-                                <div class="title-desc">We Acquire, Develop, and Manage diversified farmland and rural property for individuals, corporate organizations and institutional investors.</div>
+                                <div class="title-desc">We Acquire, Develop, and Manage diversified farmland and rural property for individuals, corporate organizations & institutions.</div>
                             </div><!-- section title end -->
                             <div class="mt_10 mb-25">
                                 <div class="row">
@@ -587,7 +587,7 @@
                                                 </div> -->
                                                 <div class="featured-desc">
                                                     <!-- <p>We Acquire, Develop, and Manage livestock and aquaculture production.&nbsp;&nbsp;<u><a href="#">Read More…</a></u></p> -->
-                                                    <p>We Acquire, Develop, and Manage livestock and aquaculture production.</p>
+                                                    <p>Livestock & Aquaculture production.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -599,7 +599,7 @@
                                                     <h5>Prosthodontics</h5>
                                                 </div> -->
                                                 <div class="featured-desc">
-                                                    <p>We Acquire, Partner, and Undertake existing agricultural infrastructure not yielding expected returns. </p>
+                                                    <p>We Acquire, Partner, and Undertake existing Agricultural properties not yielding expected returns. </p>
                                                 </div>
                                             </div>
                                         </div>
@@ -613,25 +613,26 @@
                                         <div class="featured-icon-box">
                                             <div class="featured-content">
                                                 <div class="featured-title">
-                                                    <h5>Agricultural Community Development Project (ACD)</h5>
+                                                    <!-- <h5>Agricultural Community Development Project (ACD)</h5> -->
                                                 </div>
                                                 <div class="featured-desc">
                                                     <p>As part of our corporate social responsibility, we aim to improve the quality of life of the people in the communities which we have businesses. We have designed programmes that will empower underprivileged youth as well as drive community action, social change, and other sustainability initiatives. 
 Together with our purpose-oriented employees, we pioneer projects that will inspire the way to a more socially responsible business world.</p>
-                                                    <p>Agricultural Community Development Projects -  We Design, Partner, and Implement. The main objective we desire to achieve with the ACD project is to alleviate extremely poor living conditions of rural people. We aim to improve food security and access to modern amenities in these regions. This process will focus on individual and communal capacity building through the design and implementation of human and social development programmes.</p>
+                                                    <p> We Design, Partner & Implement  Agricultural Community Development projects </p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
+                                    
                                     <div class="col-lg-12">
                                         <div class="featured-icon-box">
                                             <div class="featured-content">
                                                 <div class="featured-title">
-                                                    <h5>Agribusiness Academy</h5>
+                                                    <h5>Agri Business Academy</h5>
                                                 </div>
-                                                <div class="featured-desc">
+                                                <!-- <div class="featured-desc">
                                                     <p>Call it the Tuskegee University of the 21st century. The Agribusiness Academy is a professional institution where strong foundations in agricultural technology and business are provided alongside specialized courses which would equip our students to work in any field in the Agriculture sector.</p>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
                                     </div>
@@ -651,8 +652,8 @@ Together with our purpose-oriented employees, we pioneer projects that will insp
                         <!-- ttm_single_image-wrapper -->
                         <div class="ttm_single_image-wrapper ttm-reset-content-center-991">
                              <div class="twentytwenty-container">
-                                <img src="images/after-img-one.jpg" alt="after" />
-                                <img src="images/before-img-one.jpg" alt="before" />
+                                <img src="/img/after-img-one.png" alt="after" />
+                                <img src="/img/before-img-one.jpg" alt="before" />
                             </div>
                         </div><!-- ttm_single_image-wrapper end -->
                     </div>

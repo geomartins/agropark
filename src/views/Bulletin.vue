@@ -51,7 +51,7 @@
                                                     <!-- ttm-box-view-overlay -->
                                                     <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                                         <div class="featured-iconbox ttm-media-link">
-                                                            <a class="ttm_prettyphoto ttm_image" title="Fitness Guidance to Patient" data-rel="prettyPhoto" href="images/portfolio/01.jpg">
+                                                            <a class="ttm_prettyphoto ttm_image" title="November 2019" data-rel="prettyPhoto" href="images/portfolio/01.jpg">
                                                                 <i class="ti ti-search"></i>
                                                             </a>
                                                         </div>
@@ -59,11 +59,11 @@
                                                 </div>
                                                 <div class="ttm-box-bottom-content featured-content-portfolio box-shadow">
                                                     <div class="featured-title">
-                                                        <h5><a href="single-style-1.html">Fitness Guidance to Patient</a></h5>
+                                                        <h5><a href="/img/nov2019.pdf">November 2019</a></h5>
                                                     </div>
                                                     <span class="category">
-                                                        <a href="portfolio-category.html">Cardiology</a>,
-                                                        <a href="portfolio-category.html">Oncology</a>
+                                                        <a href="#">Bulletin</a>,
+                                                        <a href="#">2019</a>
                                                     </span>
                                                 </div>
                                             </div><!-- featured-imagebox -->
@@ -79,7 +79,7 @@
                                                     <!-- ttm-box-view-overlay -->
                                                     <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                                         <div class="featured-iconbox ttm-media-link">
-                                                            <a class="ttm_prettyphoto ttm_image" title="Diagnostic Imagine" data-rel="prettyPhoto" href="images/portfolio/02.jpg">
+                                                            <a class="ttm_prettyphoto ttm_image" title="December 2019" data-rel="prettyPhoto" href="images/portfolio/02.jpg">
                                                                 <i class="ti ti-search"></i>
                                                             </a>
                                                         </div>
@@ -87,11 +87,11 @@
                                                 </div>
                                                 <div class="ttm-box-bottom-content featured-content-portfolio box-shadow">
                                                     <div class="featured-title">
-                                                        <h5><a href="portfolio-style-3.html">Diagnostic Imagine</a></h5>
+                                                        <h5><a href="/img/dec019.pdf">December 2019</a></h5>
                                                     </div>
                                                     <span class="category">
-                                                        <a href="portfolio-category.html">Orthopedics</a>,
-                                                        <a href="portfolio-category.html">Pharmacy</a>
+                                                        <a href="#">Bulletin</a>,
+                                                        <a href="#">2019</a>
                                                     </span>
                                                 </div>
                                             </div><!-- featured-imagebox -->
@@ -107,7 +107,7 @@
                                                     <!-- ttm-box-view-overlay -->
                                                     <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                                         <div class="featured-iconbox ttm-media-link">
-                                                            <a class="ttm_prettyphoto ttm_image" title="Orthodontics Surgery &amp; Transplants" data-rel="prettyPhoto" href="images/portfolio/03.jpg">
+                                                            <a class="ttm_prettyphoto ttm_image" title="January 2020" data-rel="prettyPhoto" href="images/portfolio/03.jpg">
                                                                 <i class="ti ti-search"></i>
                                                             </a>
                                                         </div>
@@ -115,11 +115,11 @@
                                                 </div>
                                                 <div class="ttm-box-bottom-content featured-content-portfolio box-shadow">
                                                     <div class="featured-title">
-                                                        <h5><a href="portfolio-style-3.html">Orthodontics Surgery &amp; Transplants</a></h5>
+                                                        <h5><a href="/img/jan2020.pdf">January 2020</a></h5>
                                                     </div>
                                                     <span class="category">
-                                                        <a href="portfolio-category.html">Anesthesiology</a>,
-                                                        <a href="portfolio-category.html">Orthopedics</a>
+                                                        <a href="#">Bulletin</a>,
+                                                        <a href="#">2020</a>
                                                     </span>
                                                 </div>
                                             </div><!-- featured-imagebox -->
