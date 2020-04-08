@@ -346,7 +346,7 @@
                                     <div class="row">
                                         <div class="col-sm-5">
                                             <div class="toggle-figure pr-10 res-991-mb-15">
-                                                <img class="img-fluid" src="images/portfolio/post-one-1200x800.jpg" alt="image">
+                                                <img class="img-fluid" src="/img/staple.png" alt="image">
                                             </div>
                                         </div>
                                         <div class="col-sm-7">
@@ -373,7 +373,7 @@
                                     <div class="row">
                                         <div class="col-sm-5">
                                             <div class="toggle-figure pr-10 res-991-mb-15">
-                                                <img class="img-fluid" src="images/portfolio/post-one-1200x800.jpg" alt="image">
+                                                <img class="img-fluid" src="/img/spices.png" alt="image">
                                             </div>
                                         </div>
                                         <div class="col-sm-7">
@@ -412,7 +412,7 @@
                                     <div class="row">
                                         <div class="col-sm-5">
                                             <div class="toggle-figure pr-10 res-991-mb-15">
-                                                <img class="img-fluid" src="images/portfolio/post-one-1200x800.jpg" alt="image">
+                                                <img class="img-fluid" src="/img/tree.png" alt="image">
                                             </div>
                                         </div>
                                         <div class="col-sm-7">
