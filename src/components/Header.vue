@@ -11,74 +11,6 @@
                         </a>
                     </span>
                     <div class="ttm-fbar-bg-layer ttm-bg-layer"></div>
-                    <!-- ttm-fbar-content-wrapper -->
-                    <div class="ttm-fbar-content-wrapper">
-                        <div class="ttm-fbar-box">
-                            <!-- ttm_widget_team_search-2 -->
-                            <aside id="ttm_widget_team_search-2" class="widget-even widget-4 widget ttm_widget_team_search">
-                                <div class="team-search-form-w">
-                                    <form method="get" class="team-search-form " action="#">
-                                        <div class="ttm-team-search-title">
-                                            <h2>Doctors Search:</h2>
-                                        </div>
-                                        <div class="team-search-form-before-text">We provide the most full medical services, so every person could have the opportunity</div>
-                                        <div class="ttm-fbar-input">
-                                            <div class="search_field by_name">
-                                                <i class="fa fa-user-md"></i><input type="text" placeholder="Search By Name" name="s" value="">
-                                            </div>
-                                        </div>
-                                        <div class="ttm-fbar-input">
-                                            <div class="search_field selectbox">
-                                                <i class="fa fa-tags"></i>
-                                                <select name="team_group" tabindex="-1" class="select2-hidden-accessible" aria-hidden="true">
-                                                    <option value="" class="select-empty">All Sections</option>
-                                                    <option value="dental">Dental</option>
-                                                    <option value="dermatologist">Dermatologist</option>
-                                                    <option value="health-care">Health Care</option>
-                                                    <option value="ophthalmology">Ophthalmology</option>
-                                                    <option value="psychological">Psychological</option>
-                                                    <option value="surgery">Surgery</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="submit_field"><button type="submit">Search</button></div>
-                                    </form>
-                                </div>
-                            </aside><!-- ttm_widget_team_search-2 end -->
-                            <!-- enhanced-text-widget -->
-                            <aside id="enhancedtextwidget-10" class="widget-odd widget-5 widget widget_text enhanced-text-widget">
-                                <h3 class="widget-title">Opening Hours:</h3>
-                                <div class="textwidget widget-text">These are our normal opening hours. When we are closed can be found here.<br>
-                                    <div class="ttm-pricelistbox-wrapper ">
-                                        <ul class="ttm-pricelist-block">
-                                            <li>Monday - Saturday<span class="service-price">8.30 – 17.00</span></li>
-                                            <li>Sunday<span class="service-price"><strong>Closed</strong></span></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </aside><!-- enhanced-text-widget end -->
-                            <!-- enhanced-text-widget -->
-                            <aside id="enhancedtextwidget-11" class="widget-even widget-6 widget widget_text enhanced-text-widget">
-                                <div class="textwidget widget-text">
-                                    <div class="featured-icon-box left-icon icon-align-top">
-                                        <div class="featured-icon">
-                                            <div class="ttm-icon ttm-icon_element-border ttm-icon_element-color-white ttm-icon_element-size-sm ttm-icon_element-style-square">
-                                                <i class="fa fa-phone"></i>
-                                            </div>
-                                        </div>
-                                        <div class="featured-content">
-                                            <div class="featured-title">
-                                                <h5>+123 456 78910 / 11</h5>
-                                            </div>
-                                            <div class="featured-desc">
-                                                <p>Have a question? call us now</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </aside><!-- enhanced-text-widget end -->
-                        </div>
-                    </div><!-- ttm-fbar-content-wrapper end -->
                 </div>
             </div><!-- ttm-fbar-main-w end -->
             <!-- ttm-topbar-wrapper -->
@@ -161,8 +93,8 @@
                                         <ul class="dropdown">
                                             
                                             <router-link exact-active-class="active" tag="li" to='/' exact ><a>Home</a></router-link>
-                                            <li><a href="#">About</a>
-                                                <ul>
+                                            <li class="has-submenu"><a href="#" @click.prevent="dropdown($event)" >About</a>
+                                                <ul class="sub-menu">
                                                     <router-link  tag="li" to='/about'  exact-active-class="active" ><a>About Us</a></router-link>
                                                      <router-link  tag="li" to='/our-team' exact-active-class="active"><a>Our Team</a></router-link>
                                                      <router-link  tag="li" to='/partners' exact-active-class="active"><a>Partners</a></router-link>
@@ -176,8 +108,10 @@
                                                 </ul>
                                             </li>
 
-                                            <li><a href="#">Asset Management</a>
-                                                <ul>
+                                            
+
+                                            <li class="has-submenu"><a href="#" @click.prevent="dropdown($event)">Asset Management</a>
+                                                <ul class="sub-menu">
                                                     <router-link  tag="li" to='/poultry-subscription' exact-active-class="active" ><a>Poultry Subscription</a></router-link>
                                                      <router-link  tag="li" to='/fishery-subscription' exact-active-class="active" ><a>Fishery Subscription</a></router-link>
                                                      <router-link  tag="li" to='/farmland-subscription' exact-active-class="active" ><a>Farmland Subscription</a></router-link>
@@ -185,8 +119,8 @@
                             
                                                 </ul>
                                             </li>
-                                            <li><a href="#">Academy</a>
-                                                <ul>
+                                            <li class="has-submenu"><a  href="#" @click.prevent="dropdown($event)" >Academy</a>
+                                                <ul class="sub-menu">
                                                     <router-link to='/agribusiness-academy' tag="li" exact-active-class="active"><a>Agribusiness Academy </a> </router-link>
                                                 </ul>
                                             </li>
@@ -268,7 +202,29 @@ export default {
           }
          
           console.log(this.active);
+      },
+
+      dropdown(event){
+          let clickedElement = event.target.nextElementSibling;
+          let clickedElementClassList = Array.from(clickedElement.classList);
+          if(clickedElementClassList.includes('active')){
+              clickedElement.classList.remove('active');
+          }else{
+               clickedElement.classList.add('active');
+          }
+
+
+          let parentElement = event.target;
+          let parentElementClassList = Array.from(parentElement.classList);
+          if(parentElementClassList.includes('active')){
+              parentElement.classList.remove('active');
+          }else{
+               parentElement.classList.add('active');
+          }
+          
+
       }
+
   }
 };
 </script>
@@ -276,6 +232,14 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 
+    /* li.has-submenu > a::after {
+        content: 'Hi';
+    }
+
+
+    li.has-submenu > a.active::after {
+        content: '\f106';
+    } */
 </style>
 
 

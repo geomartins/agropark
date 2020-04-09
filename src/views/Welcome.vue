@@ -2,7 +2,9 @@
    <app-master>
 
       <div slot='slider'>
-        <app-slider></app-slider>
+        <keep-alive>
+            <app-slider></app-slider>
+        </keep-alive>
       </div>
 
       <div slot='main_content'>
