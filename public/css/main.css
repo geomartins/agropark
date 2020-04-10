@@ -72,12 +72,12 @@ a:focus {
     text-decoration: none; 
 }
 a:focus, a:hover { 
-    color: #00d6a3; 
+    color: #8fb138; 
     text-decoration: none; 
 }
 a, button, input { 
     outline: medium none; 
-    color: #00d6a3; 
+    color: #8fb138; 
 }
 ol, ul{ 
     padding: 0; 
@@ -97,17 +97,17 @@ p {
 }
 
 *::-moz-selection { 
-    background: #00d6a3; 
+    background: #8fb138; 
     color: #fff; 
     text-shadow: none; 
 }
 ::-moz-selection { 
-    background: #00d6a3; 
+    background: #8fb138; 
     color: #fff;
     text-shadow: none; 
 }
 ::selection { 
-    background: #00d6a3; 
+    background: #8fb138; 
     color: #fff; 
     text-shadow: none; 
 }
@@ -183,7 +183,7 @@ input[type="url"]:focus,
 input[type="search"]:focus, 
 input[type="tel"]:focus, 
 input[type="color"]:focus {
-    border: 1px solid #00d6a3;
+    border: 1px solid #8fb138;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
@@ -214,7 +214,7 @@ body { font-family: "Ubuntu",Tahoma,Geneva,sans-serif;
     letter-spacing: 0px;
 
 }
-h1, h2, h3, h4, h5, h6{ font-family: "Saira",Arial,Helvetica,sans-serif; margin-bottom: 15px; font-weight: 600; color: #033b4a;}
+h1, h2, h3, h4, h5, h6{ font-family: "Saira",Arial,Helvetica,sans-serif; margin-bottom: 15px; font-weight: 600; color: #366d3e;}
 h1 { font-size: 45px; line-height: 50px; }
 h2 { font-size: 35px; line-height: 40px; }
 h3 { font-size: 30px; line-height: 35px; }
@@ -294,7 +294,7 @@ body .page.sidebar-true .site-main{
   background-color: #fff;
 }
 
-a{ color: #033b4a; }
+a{ color: #366d3e; }
 
 .alignleft {
     float: left;
@@ -617,7 +617,7 @@ section.error-404 .ttm-big-icon,
 .products .price .product-Price-amount,
 .products .star-ratings ul li,
 div.product .summary .star-rating {
-    color: #00d6a3;
+    color: #8fb138;
 }
 
 /** Skin-bg-color **/
@@ -676,7 +676,7 @@ div.product .summary .star-rating {
 .products .product .ttm-shop-icon a:hover, div.product button.cart_button:hover, .form-submit input:hover,
 a.checkout-button:hover, .coupon button:hover, .ttm-cart-form button:hover, .place-order button:hover,
 #totop.top-visible{
-    background-color: #00d6a3;
+    background-color: #8fb138;
 }
 
 .ttm-tabs.ttm-tab-style-vertical ul.tabs li.active a,
@@ -689,7 +689,7 @@ a.checkout-button:hover, .coupon button:hover, .ttm-cart-form button:hover, .pla
 .comment-form textarea:focus, .comment-form input[type="text"]:focus, 
 .comment-form input[type="email"]:focus, .comment-form input[type="url"]:focus,
 #reviews #review_form_wrapper select:focus{ 
-    border-color: #00d6a3; 
+    border-color: #8fb138; 
 }
 
 .ttm-btn.ttm-btn-style-border.ttm-btn-color-skincolor:hover {
@@ -698,7 +698,7 @@ a.checkout-button:hover, .coupon button:hover, .ttm-cart-form button:hover, .pla
 .ttm-tabs.ttm-tab-color-grey.ttm-tab-style-classic ul li.active a,
 .ttm-form-coupon-info,
 div.product ul.tabs li.active a:before {
-    border-top-color: #00d6a3;
+    border-top-color: #8fb138;
 }
 .tp-caption.ttm-video-icon:hover,
 .ttm-video-btn:hover .ttm-btn-play,
@@ -711,7 +711,7 @@ div.product ul.tabs li.active a:before {
 .featured-icon-box.style1:hover,
 .featured-imagebox-post.ttm-box-view-top-image:hover .featured-content-post,
 .footer .social-icons li>a, .footer .social-icons li>a:hover{
-    border-color: #00d6a3;
+    border-color: #8fb138;
 }
 
 /** 2.DarkGrey-color **/
@@ -733,7 +733,7 @@ div.product ul.tabs li.active a:before {
 .ttm-pf-single-content-wrapper-innerbox .ttm-social-share-title,
 ul.ttm-timelistbox-block li strong,
 .ttm-social-share-wrapper{
-  color: #033b4a;
+  color: #366d3e;
 }
 
 /** DarkGrey-bg-color **/
@@ -760,13 +760,13 @@ ul.ttm-timelistbox-block li strong,
 .comment-list a.comment-reply-link:hover, 
 div.product button.cart_button, .form-submit input,
 a.checkout-button, .coupon button, .ttm-cart-form button, .place-order button {
-  background-color: #033b4a;
+  background-color: #366d3e;
 }
 
 .ttm-icon_element-border.ttm-icon_element-color-darkgrey,
 .ttm-btn.ttm-btn-style-border:hover,
 .ttm-tabs.ttm-tab-style-vertical ul.tabs li a{
-  border-color: #033b4a;
+  border-color: #366d3e;
 }
 
 /** 3.White-color **/
@@ -1176,7 +1176,7 @@ a.ttm-fbar-btn-link.ttm-close-icon .ttm-fbar-close-icon {
     height: 0;
     border-top: 20px solid transparent;
     border-bottom: 21px solid transparent;
-    border-right: 20px solid #00d6a3;
+    border-right: 20px solid #8fb138;
 }
 .ttm-fbar-position-right .ttm-fbar-content-wrapper {
     width: 100%;
@@ -1447,7 +1447,7 @@ ul.ttm-pricelist-block li .service-price {
     line-height: 17px;
     font-size: 9px;
     display: block;
-    background-color: #00d6a3;
+    background-color: #8fb138;
     color: #fff;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -1474,7 +1474,7 @@ ul.ttm-pricelist-block li .service-price {
     position: fixed;
     top: 0;
     left: 0;
-    background: #033b4a;
+    background: #366d3e;
     height: 100%;
     width: 100%;
     z-index: 9999;
@@ -1719,7 +1719,7 @@ ul.ttm-recent-post-list li:after {
     line-height: 1em;
     font-size: 14px;
     content: "";
-    background-color: #00d6a3;
+    background-color: #8fb138;
     width: 11px;
     height: 1px;
     position: absolute;
