@@ -1666,6 +1666,7 @@ ul.ttm-pricelist-block li .service-price {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: scroll;
+    filter: grayscale(80%);
 }
 
 .widget ul{ margin: 0; padding: 0; list-style: none;}
@@ -1783,6 +1784,7 @@ ul.ttm-recent-post-list li:after {
 
 .footer .bottom-footer-text {
     background-color: #013340;
+    filter: grayscale(80%);
 }
 
 /** copyright **/

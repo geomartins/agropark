@@ -527,7 +527,7 @@
 	#site-header-menu #site-navigation .menu > ul ul > li.active > a,
 	#site-header-menu #site-navigation .menu > ul ul > li:hover > a{ 
 		background-color: transparent; 
-		color: #01d6a3; 
+		color: #8fb138; 
 	}
 	#site-header-menu #site-navigation .menu ul > li.has-submenu > a:after {
 	    content: "\f107";

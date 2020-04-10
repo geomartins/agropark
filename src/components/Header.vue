@@ -1,18 +1,7 @@
 <template>
   <!--header start-->
         <header id="masthead" class="header ttm-header-style-classicinfo">
-            <!-- ttm-fbar-main-w -->
-            <div class="ttm-fbar-main-w ttm-fbar-position-right">
-                <div class="ttm-fbar-box-w ttm-textcolor-white ttm-bgcolor-darkgrey ttm-bg ttm-bgimage-yes">
-                    <span class="ttm-fbar-btn">
-                        <a href="javascript:void(0)" class="ttm-fbar-btn-link">
-                            <span class="ttm-fbar-open-icon"><i class="fa fa-bars"></i></span>
-                            <span class="ttm-fbar-close-icon"><i class="fa fa-times"></i></span>
-                        </a>
-                    </span>
-                    <div class="ttm-fbar-bg-layer ttm-bg-layer"></div>
-                </div>
-            </div><!-- ttm-fbar-main-w end -->
+           
             <!-- ttm-topbar-wrapper -->
             <div class="ttm-topbar-wrapper ttm-bgcolor-darkgrey ttm-textcolor-white clearfix">
                 <div class="container">
