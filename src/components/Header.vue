@@ -47,8 +47,8 @@
                             <div class="container">
                                 <!-- site-branding -->
                                 <div class="site-branding">
-                                    <a class="home-link" href="index.html" title="Delmont" rel="home">
-                                        <img id="logo-img" class="img-center" src="images/logo-img.png" alt="logo-img">
+                                    <a class="home-link" href="index.html" title="AgroPark" rel="home">
+                                        <img id="logo-img" class="img-center" src="images/logo.png" alt="logo-img">
                                     </a>
                                 </div><!-- site-branding end -->
                                 <!--site-navigation -->
