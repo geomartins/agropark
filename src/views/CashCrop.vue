@@ -41,7 +41,7 @@
                                 <div class="row">
                                     <div class="col-lg-8">
                                         <div class="ttm-featured-wrapper ttm-portfolio-featured-wrapper">
-                                            <img class="img-fluid" src="images/portfolio/post-one-1200x800.jpg" alt="">
+                                            <img class="img-fluid" src="/img/bigcash.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-lg-4">

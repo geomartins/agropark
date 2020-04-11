@@ -259,7 +259,7 @@
                                         </div>
                                         <div class="layer-content"></div>
                                     </div><!-- col-img-bg-img-five end-->
-                                    <img src="images/bg-image/col-bgimage-5.jpg" class="ttm-equal-height-image" alt="bg-image">
+                                    <img src="/img/mision.png" class="ttm-equal-height-image" alt="bg-image">
                                 </div>
                                 <div class="col-md-8">
                                     <!-- featured-icon-box -->
@@ -269,7 +269,7 @@
                                                 <h5>Our Mission</h5>
                                             </div>
                                             <div class="featured-desc">
-                                                <p>Sustainable use of farmla.nd and rural properties for global economic growth</p>
+                                                <p>Sustainable use of farmland and rural properties for global economic growth</p>
                                                 <!-- <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline" href="#">MORE ABOUT</a> -->
                                             </div>
                                         </div>
@@ -285,7 +285,7 @@
                                         </div>
                                         <div class="layer-content"></div>
                                     </div><!-- col-img-bg-img-six end-->
-                                    <img src="images/bg-image/col-bgimage-6.jpg" class="ttm-equal-height-image" alt="bg-image">
+                                    <img src="/img/vision.png" class="ttm-equal-height-image" alt="bg-image">
                                 </div>
                                 <div class="col-md-8">
                                     <!-- featured-icon-box -->

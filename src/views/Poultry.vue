@@ -41,7 +41,7 @@
                                 <div class="row">
                                     <div class="col-lg-8">
                                         <div class="ttm-featured-wrapper ttm-portfolio-featured-wrapper">
-                                            <img class="img-fluid" src="images/portfolio/post-one-1200x800.jpg" alt="">
+                                            <img class="img-fluid" src="img/bigpo.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-lg-4">
@@ -89,7 +89,7 @@
                                             </div>
                                             <p>As one of the major elements of agriculture, livestock farming (also known as animal husbandry) was introduced to the humans who witnessed the transition from a hunter-gatherer system to farming. 
 It is a fact that livestock are important for food production. They are also an effective user of farmland, as they contribute obviously to the yield. We operate a practical crop-livestock integration system that allows the recycling of organic nutrition which results in healthier crops and livestock. </p>
-                                            <p>Our Poultry investment is a short- term investment portfolio which involves raising a number of birds (250 birds per Pen) to maturity. The cost of raising the birds to maturity, Pen rental and Insurance cover are stated in the template. You can subscribe for multiply pens. </p>
+                                            <!-- <p>Our Poultry investment is a short- term investment portfolio which involves raising a number of birds (250 birds per Pen) to maturity. The cost of raising the birds to maturity, Pen rental and Insurance cover are stated in the template. You can subscribe for multiply pens. </p> -->
                                             <p>Please see the template for more details. Alternatively, download Investment breakdown. </p>
                                         </div>
                                     </div>
@@ -106,17 +106,18 @@ It is a fact that livestock are important for food production. They are also an 
                                                     <div class="col-sm-6">
                                                         <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
                                                             <li><i class="fa fa-arrow-circle-right"></i> <a href="https://agropark.ng/asset-files/poultry.pdf" > <span class="ttm-list-li-content"> Poultry Subscription Template </span> </a></li>
-                                                            <li><i class="fa fa-arrow-circle-right"></i><a href="https://agropark.ng/asset-files/investment-breakdown.pptx" > <span class="ttm-list-li-content">You can download this investment breakdown for further details</span> </a></li>
-                                                            <li><i class="fa fa-arrow-circle-right"></i><a href="https://www.app.agropark.ng/" > <span class="ttm-list-li-content">Please click on this link to submit an application</span> </a> </li>
-                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Please click on this link to submit an application </span></li>
+                                                            
+                                                            <!-- <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Please click on this link to submit an application </span></li> -->
                                                         </ul>
                                                     </div>
                                                     <div class="col-sm-6">
                                                         <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
-                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">repudiated and annoyances Lorem ipsum dolor sit consectetur.</span></li>
+                                                            <li><i class="fa fa-arrow-circle-right"></i><a href="https://agropark.ng/asset-files/investment-breakdown.pptx" > <span class="ttm-list-li-content">You can download this investment breakdown for further details</span> </a></li>
+                                                            <li><i class="fa fa-arrow-circle-right"></i><a href="https://www.app.agropark.ng/" > <span class="ttm-list-li-content">Please click on this link to submit an application</span> </a> </li>
+                                                            <!-- <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">repudiated and annoyances Lorem ipsum dolor sit consectetur.</span></li>
                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">annoyances pain can procure him great pleasure ipsum sit.</span></li>
                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">combined with handful of model sentence and repudiated.</span></li>
-                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">accusantium doloremque laudantium.</span></li>
+                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">accusantium doloremque laudantium.</span></li> -->
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -134,7 +135,23 @@ It is a fact that livestock are important for food production. They are also an 
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-lg-12">
-                                                        <p><img class="alignright img-fluid" src="/img/poul.png" alt="">Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus posuere posuere ex, ac tincidunt turpis porta id. Aenean sed mauris lacus.&nbsp;&nbsp;It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus posuere posuere ex, ac tincidunt turpis porta id. Aenean sed mauris lacus.&nbsp;&nbsp;It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                                        <p><img class="alignright img-fluid" src="/img/poul.png" alt="">Our poultry investment is a short term investment portfolio which involves raising a number of birds(250 per Pen) to maturity. The cost of pen rental, the cost of raising the birds and insurance cover is stated below.
+                                                         You can subscribe for multiply pens.</p>   
+                                                         <h5>Investment Breakdown</h5> 
+                                                         <div class="row">
+                                                    <div class="col-sm-12">
+                                                        <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
+                                                           <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Total Investment Cost Per Pen (2years tenure) = N366,437.5
+</span></li>                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Net Remittance In 6 Months = N108,540.94 
+</span></li> 
+                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">A Total Of 4 Payout In 2 Years (N108,540.94 X 4) = N434,163.76) + Refund(n172,968.75)
+</span></li> 
+                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Total Remittance by the 24th month = N607,132.51
+</span></li> 
+                                                        </ul>
+                                                    </div>
+                                                </div>    
+
                                                         
                                                     </div>
                                                 </div>

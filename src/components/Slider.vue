@@ -9,7 +9,7 @@
                 <ul>
                     <li data-index="rs-8" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 
-                        <img src="images/slides/slider-mainbg-003.jpg" alt="" title="mainslider-bg004" width="1918" height="710" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                        <img src="/img/slide1.png" alt="" title="mainslider-bg004" width="1918" height="710" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 
                         <div class="tp-caption slide-main-text shape-rectangle tp-resizeme" id="slide-8-layer-2" data-x="['left','left','center','center']" data-hoffset="['50','40','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-164','-163','-141','-107']"
                             data-fontsize="['12','12','12','10']"
@@ -70,7 +70,7 @@
                             data-fontsize="['17','17','15','15']"
                             data-lineheight="['27','27','25','25']"
                             data-fontweight="['400','400','400','400']"
-                            data-color="['rgb(89, 102, 105)','rgb(89, 102, 105)','rgb(89, 102, 105)','rgb(89, 102, 105)']"
+                            data-color="['rgb(162, 195, 169)']"
                             data-width="none"
                             data-height="none"
                             data-whitespace="nowrap"
@@ -130,7 +130,7 @@
 
                     <li data-index="rs-17" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 
-                        <img src="images/slides/slider-mainbg-004.jpg" alt="" title="mainslider-bg003" width="1918" height="710" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                        <img src="/img/slide2.png" alt="" title="mainslider-bg003" width="1918" height="710" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 
                         <div class="tp-caption slide-main-text shape-rectangle tp-resizeme" id="slide-17-layer-2" data-x="['left','left','center','center']" data-hoffset="['50','40','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-164','-163','-141','-107']"
                             data-fontsize="['12','12','12','10']"
@@ -191,7 +191,7 @@
                             data-fontsize="['17','17','15','15']"
                             data-lineheight="['27','27','25','25']"
                             data-fontweight="['400','400','400','400']"
-                            data-color="['rgb(89, 102, 105)','rgb(89, 102, 105)','rgb(89, 102, 105)','rgb(89, 102, 105)']"
+                            data-color="['rgb(162, 195, 169)']"
                             data-width="none"
                             data-height="none"
                             data-whitespace="nowrap"
@@ -203,7 +203,7 @@
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]">"agriclture not only gives riches to a nation,<br> but the only riches she can call her own" Samuel Johnson 
+                            data-paddingleft="[0,0,0,0]">"agriculture not only gives riches to a nation,<br> but the only riches she can call her own" Samuel Johnson 
                         </div>
 
                         <router-link tag="a" to="/poultry-subscription" class="tp-caption dark-flatborder-button" id="slide-17-layer-14" data-x="['left','left','center','center']" data-hoffset="['50','41','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['151','151','60','52']"
