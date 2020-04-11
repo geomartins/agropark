@@ -35,7 +35,7 @@
                     <div class="col-lg-6 col-sm-12">
                         <!-- ttm_single_image-wrapper -->
                         <div class="ttm_single_image-wrapper text-right">
-                            <img class="img-fluid" src="images/single-img-three.png" alt="" />
+                            <img class="img-fluid" src="/img/agric.png" alt="" />
                         </div><!-- ttm_single_image-wrapper end -->
                     </div>
                     <div class="col-lg-6 col-sm-12">

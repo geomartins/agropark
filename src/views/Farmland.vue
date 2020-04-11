@@ -135,8 +135,10 @@
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-lg-12">
-                                                        <p><img class="alignright img-fluid" src="/img/land.png" alt="">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquet odio non porta laoreet. Vestibulum in dui euismod, molestie quam porta, sagittis arcu. Pellentesque vitae pulvinar urna, in dignissim nulla. Mauris iaculis, tortor sed pharetra varius, purus augue feugiat purus, <a href="#">vitae porta nulla turpis</a> pellentesque dolor.</p>
-                                                        <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus posuere posuere ex, ac tincidunt turpis porta id. Aenean sed mauris lacus.&nbsp;&nbsp;It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus posuere posuere ex, ac tincidunt turpis porta id. Aenean sed mauris lacus.&nbsp;&nbsp;It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                                        <p><img class="alignright img-fluid" src="/img/land.png" alt="">1 Hectare of Farmland purchase (N1,550,000.00) with 7.5% VAT = N1,666,250.00</p>
+                                                         <p>Crop production input cost is dependent on selected crop available on offer. Available crops are: •Fennel, •Maize, •Turmeric, •Citronella & •Scent leaves.</p>
+                                                        <p>For instance, considering Fennel as a selected crop, cost of production of Fennel = N224,400.00</p>
+                                                       <h5> </h5>
                                                     </div>
                                                 </div>
                                             </div>
