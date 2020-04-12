@@ -138,7 +138,19 @@
                                                         <p><img class="alignright img-fluid" src="/img/land.png" alt="">1 Hectare of Farmland purchase (N1,550,000.00) with 7.5% VAT = N1,666,250.00</p>
                                                          <p>Crop production input cost is dependent on selected crop available on offer. Available crops are: •Fennel, •Maize, •Turmeric, •Citronella & •Scent leaves.</p>
                                                         <p>For instance, considering Fennel as a selected crop, cost of production of Fennel = N224,400.00</p>
-                                                       <h5> </h5>
+                                                       <h5>Based on the above (Fennel):</h5>
+                                                       <div class="row">
+                                                    <div class="col-sm-12">
+                                                        <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
+                                                           <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Total Cost of Investment: N1,666,250.00 + 224,400.00 = N1,890,650.00</span></li>                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Net Remittance In 6 Months = N108,540.94 
+</span></li> 
+                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">RoI (Return on Investment): N200,269.00
+</span></li> 
+                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Crop life cycle: 4 months, 2 weeks</span></li> 
+                                                        </ul>
+                                                    </div>
+                                                </div>  <br>
+                                                <p>PS: Outright purchase is 90 years  •You can invest more than 1 hectare</p> 
                                                     </div>
                                                 </div>
                                             </div>

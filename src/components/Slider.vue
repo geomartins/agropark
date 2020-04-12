@@ -65,7 +65,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]"><strong class="ttm-textcolor-skincolor">Medical</strong> Services </div>
+                        data-paddingleft="[0,0,0,0]"><strong class="ttm-textcolor-skincolor">Professional </strong> Farmland &</div>
 
 
                         <div class="tp-caption slide-main-text tp-resizeme" id="slide-6-layer-4" data-x="['left','left','left','center']" data-hoffset="['50','40','30','0']" data-y="['top','top','top','middle']" data-voffset="['286','286','167','-33']"
@@ -83,7 +83,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]">That You Can <strong class="ttm-textcolor-skincolor">Trust</strong> </div>
+                        data-paddingleft="[0,0,0,0]">Rural Property <strong class="ttm-textcolor-skincolor">Managers</strong> </div>
 
                         <div class="tp-caption slide-main-text tp-resizeme" id="slide-6-layer-5" data-x="['left','left','left','center']" data-hoffset="['50','40','30','0']" data-y="['top','top','top','middle']" data-voffset="['373','382','236','19']"
                         data-fontsize="['16','16','15','12']"
@@ -102,7 +102,7 @@
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]">Need professional help? Our support staff will answer your questions.<br> Visit us Now or Make an Appointment! </div>
 
-                        <div class="tp-caption shape-rounded tp-resizeme" id="slide-6-layer-7" data-x="['center','center','center','center']" data-hoffset="['544','446','332','332']" data-y="['middle','middle','middle','middle']" data-voffset="['219','240','150','150']"
+                        <!-- <div class="tp-caption shape-rounded tp-resizeme" id="slide-6-layer-7" data-x="['center','center','center','center']" data-hoffset="['544','446','332','332']" data-y="['middle','middle','middle','middle']" data-voffset="['219','240','150','150']"
                         data-width="50"
                         data-height="48"
                         data-fontsize="['23','23','23','23']"
@@ -118,9 +118,9 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]"><span class=" fa fa-user-md"></span> </div>
+                        data-paddingleft="[0,0,0,0]"><span class=" fa fa-user-md"></span> </div> -->
 
-                        <div class="tp-caption icon-text tp-resizeme" id="slide-6-layer-8" data-x="['center','center','center','center']" data-hoffset="['444','349','235','442']" data-y="['middle','middle','middle','middle']" data-voffset="['207','227','138','95']"
+                        <!-- <div class="tp-caption icon-text tp-resizeme" id="slide-6-layer-8" data-x="['center','center','center','center']" data-hoffset="['444','349','235','442']" data-y="['middle','middle','middle','middle']" data-voffset="['207','227','138','95']"
                         data-fontsize="['19','19','19','18']"
                         data-lineheight="['21','21','21','20']"
                         data-fontweight="['400','400','400','400']"
@@ -136,9 +136,9 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]">Dr. Alex Murry </div>
+                        data-paddingleft="[0,0,0,0]">Dr. Alex Murry </div> -->
 
-                        <div class="tp-caption icon-desc tp-resizeme" id="slide-6-layer-9" data-x="['center','center','center','center']" data-hoffset="['352','259','152','360']" data-y="['middle','middle','middle','middle']" data-voffset="['231','251','162','125']"
+                        <!-- <div class="tp-caption icon-desc tp-resizeme" id="slide-6-layer-9" data-x="['center','center','center','center']" data-hoffset="['352','259','152','360']" data-y="['middle','middle','middle','middle']" data-voffset="['231','251','162','125']"
                         data-fontsize="['15','15','14','13']"
                         data-lineheight="['15','15','15','13']"
                         data-fontweight="['400','400','400','400']"
@@ -154,9 +154,9 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]">Get an Appointment</div>
+                        data-paddingleft="[0,0,0,0]">Get an Appointment</div> -->
 
-                        <a class="tp-caption icon-btn tp-resizeme" href="#" target="_self" id="slide-6-layer-10" data-x="['center','center','center','center']" data-hoffset="['466','373','259','465']" data-y="['middle','middle','middle','middle']" data-voffset="['230','250','161','123']"
+                        <!-- <a class="tp-caption icon-btn tp-resizeme" href="#" target="_self" id="slide-6-layer-10" data-x="['center','center','center','center']" data-hoffset="['466','373','259','465']" data-y="['middle','middle','middle','middle']" data-voffset="['230','250','161','123']"
                         data-fontsize="['15','15','14','13']"
                         data-lineheight="['15','15','14','13']"
                         data-fontweight="['400','400','400','600']"
@@ -173,9 +173,9 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]"><u>Learn More</u></a>
+                        data-paddingleft="[0,0,0,0]"><u>Learn More</u></a> -->
 
-                        <a class="tp-caption white-flatborder-button tp-resizeme" href="#" target="_self" id="slide-6-layer-6" data-x="['left','left','left','center']" data-hoffset="['50','40','30','0']" data-y="['top','top','top','middle']" data-voffset="['467','482','319','89']"
+                        <router-link tag="a" to="/asset-management" class="tp-caption white-flatborder-button tp-resizeme" id="slide-6-layer-6" data-x="['left','left','left','center']" data-hoffset="['50','40','30','0']" data-y="['top','top','top','middle']" data-voffset="['467','482','319','89']"
                         data-fontsize="['13','13','13','12']"
                         data-lineheight="['16','16','16','12']"
                         data-fontweight="['600','600','600','600']"
@@ -191,7 +191,7 @@
                         data-paddingtop="[17,17,17,15]"
                         data-paddingright="[30,30,23,20]"
                         data-paddingbottom="[17,17,17,15]"
-                        data-paddingleft="[30,30,23,20]">MAKE AN APPOINTMENT! </a>
+                        data-paddingleft="[30,30,23,20]">MAKE AN APPOINTMENT! </router-link>
 
                     </li>
 

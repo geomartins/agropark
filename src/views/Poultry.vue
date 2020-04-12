@@ -135,16 +135,15 @@ It is a fact that livestock are important for food production. They are also an 
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-lg-12">
-                                                        <p><img class="alignright img-fluid" src="/img/poul.png" alt="">Our poultry investment is a short term investment portfolio which involves raising a number of birds(250 per Pen) to maturity. The cost of pen rental, the cost of raising the birds and insurance cover is stated below.
-                                                         You can subscribe for multiply pens.</p>   
-                                                         <h5>Investment Breakdown</h5> 
+                                                        <p><img class="alignright img-fluid" src="/img/poul.png" alt="">Our poultry investment is a short-term investment portfolio which involves raising several birds (250 per Pen) to maturity. The cost of pen rental, the cost of raising the birds and insurance cover is stated below.</p>   
+                                                         <p>You can subscribe for multiple pens.</p> 
                                                          <div class="row">
                                                     <div class="col-sm-12">
                                                         <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
-                                                           <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Total Investment Cost Per Pen (2years tenure) = N366,437.5
+                                                           <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Total Cost Investment Cost Per Pen (2years tenure) = N366,437.5
 </span></li>                                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Net Remittance In 6 Months = N108,540.94 
 </span></li> 
-                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">A Total Of 4 Payout In 2 Years (N108,540.94 X 4) = N434,163.76) + Refund(n172,968.75)
+                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">A Total Of 4 Payouts In 2 Years (N108,540.94 X 4) = N434,163.76 + Refund(N172,968.75)
 </span></li> 
                                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Total Remittance by the 24th month = N607,132.51
 </span></li> 
