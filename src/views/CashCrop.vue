@@ -134,8 +134,35 @@
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-lg-12">
-                                                        <p><img class="alignright img-fluid" src="/img/palm.png" alt="">Cash crop investment is a long- term lease plan (20 years). On one Hectare of Oil palm or Cashew, you can cultivate one Acre of Turmeric in between using the available spaces.</p>
-                                                         <p>Return on Turmeric comes every 9 months for 3 years while you await return on Cash crop which matures in 4 years. </p>
+                                                        <p><img class="alignright img-fluid" src="/img/palm.png" alt="">Cash crop investment is a long-term lease plan (20 years). On one hectare of Oil Palm, there are spaces in between, which is summed up to 1 Acre. Subscribers have an option to cultivate Turmeric using this space.</p>
+                                                         <p>You can earn profit on Turmeric (in 9 months) before your cash crop maturity.</p>
+                                                      <h5>OIL PALM CULTIVATION </h5>
+                                                      <div class="row">
+                                                    <div class="col-sm-12">
+                                                      <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
+                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Oil Palm Investment Cost – N1,505,112.50 one off price,  you can also spread this amount through a period of 4 years.</span></li>
+                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Total Payout to Subscriber: N19,253,486.88; The RoI is from the 4th year – 20th year.</span></li>
+                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">The cost of one acre of Turmeric Investment: N330,480.00</span></li>
+                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">RoI on Turmeric is remitted every 9months. This will sum up to 3 payouts before termination on the land. RoI on oil palm commences from the 4th year.</span></li> 
+                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Payout in 1st & 2nd Years: N284,224.80; Payout in 3rd Year: N614,704.80</span></li>
+                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Investment Tenure: 20 Years</span></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+                                                <h5>CASHEW CULTIVATION</h5>
+                                                      <div class="row">
+                                                    <div class="col-sm-12">
+                                                      <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
+                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Cashew Investment Cost: N1,259,537.50</span></li>
+                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Total Payout to Subscriber: N14,879,141.53 (RoI from the 4th year – 20th year)</span></li>
+                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Turmeric Investment Cost – N330,480.00        </span></li>
+                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Payout in 1st & 2nd Years: N284,224.80; Payout in 3rd Year: N614,704.80</span></li>
+                                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Investment Tenure: 20 Years</span></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                
                                                     </div>
                                                 </div>
                                             </div>
