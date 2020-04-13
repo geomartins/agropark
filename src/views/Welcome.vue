@@ -243,7 +243,9 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="mt-50 text-center res-991-mt-0">
-                            <strong>Don’t hesitate, contact us for better help and services. <span class="ttm-textcolor-darkgrey"><u>Explore all Dr. Team</u></span></strong>
+                            <strong>Don’t hesitate, contact us for better help and services. 
+                                <!-- <span class="ttm-textcolor-darkgrey"><u>Explore all Dr. Team</u></span> -->
+                            </strong>
                         </div>
                     </div>
                 </div>
