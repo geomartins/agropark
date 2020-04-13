@@ -53,7 +53,7 @@
                     <div class="col-md-4 ttm-box-col-wrapper">
                         <!-- ttm_single_image-wrapper -->
                         <div class="ttm_single_image-wrapper mb-25">
-                            <img class="img-fluid" src="images/single-img-seven.jpg" alt="">
+                            <img class="img-fluid" src="/img/celias.png" alt="">
                         </div><!-- ttm_single_image-wrapper end -->
                         <h4>Omole Office</h4>
                         <div class="sep_holder_box width-100">
