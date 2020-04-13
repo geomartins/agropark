@@ -208,13 +208,13 @@
     background-size: cover !important;
 }
 .col-bg-img-five.ttm-col-bgimage-yes .ttm-col-wrapper-bg-layer{
-    background-image: url(../images/bg-image/col-bgimage-5.jpg) !important;
+    background-image: url(/img/mision.png) !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
 .col-bg-img-six.ttm-col-bgimage-yes .ttm-col-wrapper-bg-layer{
-    background-image: url(../images/bg-image/col-bgimage-6.jpg) !important;
+    background-image: url(/img/vision.png) !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
