@@ -28,7 +28,7 @@
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]">
 
-                            <img src="images/slides/slider-icon001.png" alt="" data-ww="['113px','113px','113px','113px']" data-hh="['45px','45px','45px','45px']" width="113" height="45" data-no-retina> 
+                            <img src="/img/bnew.png" alt="" data-ww="['113px','113px','113px','113px']" data-hh="['45px','45px','45px','45px']" width="113" height="45" data-no-retina> 
 
                         </div>
 
@@ -65,7 +65,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]"><strong class="ttm-textcolor-skincolor">Professional </strong> Farmland &</div>
+                        data-paddingleft="[0,0,0,0]"><strong class="ttm-textcolor-skincolor">Agricultural  </strong> </div>
 
 
                         <div class="tp-caption slide-main-text tp-resizeme" id="slide-6-layer-4" data-x="['left','left','left','center']" data-hoffset="['50','40','30','0']" data-y="['top','top','top','middle']" data-voffset="['286','286','167','-33']"
@@ -83,7 +83,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]">Rural Property <strong class="ttm-textcolor-skincolor">Managers</strong> </div>
+                        data-paddingleft="[0,0,0,0]">Property <strong class="ttm-textcolor-skincolor">Managers</strong> </div>
 
                         <div class="tp-caption slide-main-text tp-resizeme" id="slide-6-layer-5" data-x="['left','left','left','center']" data-hoffset="['50','40','30','0']" data-y="['top','top','top','middle']" data-voffset="['373','382','236','19']"
                         data-fontsize="['16','16','15','12']"
