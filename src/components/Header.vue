@@ -99,7 +99,7 @@
 
                                             
 
-                                            <li class="has-submenu"><a href="#" @click.prevent="dropdown($event)">Asset Management</a>
+                                            <li class="has-submenu"><a href="#" @click.prevent="dropdown($event)">Farm Management</a>
                                                 <ul class="sub-menu">
                                                     <router-link  tag="li" to='/poultry-subscription' exact-active-class="active" ><a>Poultry Subscription</a></router-link>
                                                      <router-link  tag="li" to='/fishery-subscription' exact-active-class="active" ><a>Fishery Subscription</a></router-link>
@@ -156,8 +156,8 @@
                                         <i class="fa fa-thumbs-o-up"></i>
                                     </div>
                                     <div class="header-content">
-                                        <h3>Guaranteed Returns</h3>
-                                        <p>Satisfied Customers</p>
+                                        <h3>Green Revolution</h3>
+                                        <p>Extensive R&D</p>
                                     </div>
                                 </div>
                             </div>
