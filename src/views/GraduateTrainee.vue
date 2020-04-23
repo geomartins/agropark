@@ -35,7 +35,7 @@
                     <div class="col-lg-12">
                         <div class="mb-35">
                             <h2 class="ttm-textcolor-skincolor ">Application Form</h2>
-                            <p>Agro-Park Graduate Trainee Program (GTP) 2020 is a 6-month intensive program. Also, note that the location of the Agropark Graduate Trainee would be taking place at  <a href='#'>Abeokuta North, Ogun State Nigeria. </a> </p>
+                            <p>Agro-Park Graduate Trainee Program (GTP) 2020 is a 6-month intensive program. Also, note that the training takes place on the farm estate.</p>
                         </div>
 
                         <div class="comment-respond">

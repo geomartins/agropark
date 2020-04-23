@@ -52,14 +52,23 @@
                             <!-- section title -->
                             <div class="section-title clearfix">
                                 <div class="title-header">
-                                    <h5>ABOUT AGROPARK</h5>
-                                    <h2 class="title">Professional farmland and rural property managers</h2>
+                                    <h5> AGROPARK</h5>
+                                    <h2 class="title">Agricultural Property Managers</h2>
                                 </div>
                             </div><!-- section title end -->
                             <div class="mb-30 clearfix">
-                                <p>Agro Park Development Company Limited (APDCL) is primarily a farm management company involved in the end to end of the agricultural value chain. Our mission is to provide healthier meals for Nations. We manage farmland for Individuals, Corporate organisations, and Institutional investors.</p>
-                                <p>Our drive as an organization is to revolutionize agricultural practices in Nigeria and Africa at large. Since we started out 3 years ago, we have been consistent—meeting all obligations and bringing solutions to issues in agriculture through innovation. At present, we manage more than 5,000 hectares of farmland across the country.</p>
-                                <p> Our maiden farm estate on which we produce and process organic food (crops and livestock) sits on about 1,500 hectares of land. It is located at Ijale-Orile, Abeokuta, Ogun State. We offer for sale and lease farmland and provide 100% farm management services for you. At Agro Park, we cultivate herbs, spices & staple crops, produce livestock (Poultry, Fish (cat fish and Tilapia), Snail, Pig, and Rabbit), and cash crop (Oil palm & cashew). </p>
+                                <p>Agro Park is an agricultural property development company involved in the end-to-end of the agricultural value chain. We manage farmland for Individuals, Corporate organisations, and Institutional investors. Its drive as an organisation is to transform agricultural practices in Nigeria and Africa at large. From inception, we have been consistent in meeting all obligations and bringing solutions to issues in agriculture through innovation. </p>
+                                <p>At present, we manage more than 5,000 hectares of farmland and rural properties across the country. Our maiden farm estate covers about 1,500 hectares. It is located at Ijale-Orile, Abeokuta, Ogun State. We offer for sale and lease farmland and provide 100% farm management services. We produce herbs and spices, staples, livestock, and cash crop.</p>
+                            </div>
+                            <!-- section title -->
+                            <div class="section-title clearfix">
+                                <div class="title-header">
+                                    <!-- <h5> AGROPARK</h5> -->
+                                    <h2 class="title">What We Do</h2>
+                                </div>
+                            </div><!-- section title end -->
+                            <div class="mb-30 clearfix">
+                                <p>Put sometghing here</p>
                             </div>
                             <!-- <div class="ttm_sign_image-wrapper mb-25 res-991-mb-0">
                                 <img src="images/dr-sign.png" alt="ttm_single_image-wrapper">
@@ -135,8 +144,8 @@
                         <!-- section-title -->
                         <div class="section-title with-desc text-center clearfix">
                             <div class="title-header">
-                                <h5>HAPPY CLIENTS</h5>
-                                <h2 class="title">What Our Patients Are Saying</h2>
+                                <!-- <h5>HAPPY CLIENTS</h5> -->
+                                <h2 class="title">Life is Green, Agriculture is Wealth</h2>
                             </div>
                         </div><!-- section-title end -->
                     </div>
@@ -246,7 +255,7 @@
                             <!-- section title -->
                             <div class="section-title with-desc clearfix">
                                 <div class="title-header">
-                                    <h2 class="title">What We Do</h2>
+                                    <h2 class="title">Philosophy</h2>
                                 </div>
                                 <div class="title-desc">Acquisition, development, management of farmland and rural properties.</div>
                             </div><!-- section title end -->
@@ -366,7 +375,7 @@
                                 <div class="toggle-title" @click="accordion($event)">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" >
                                         <i class="flaticon-hygiene"></i>
-                                        <span class="ttm-title-text">Spices</span>
+                                        <span class="ttm-title-text">Herbs & Spices</span>
                                     </a>
                                 </div>
                                 <div class="toggle-content">
