@@ -82,7 +82,7 @@
                             <ul id="menu-footer-quick-links">
                                 <li><router-link to="/about" tag="a"> About Us</router-link></li>
                                 <li><router-link to="/contact" tag="a"> Contact Us </router-link></li>
-                                <li><router-link tag="a" to="/asset-management"> Asset Management </router-link></li>
+                                <li><router-link tag="a" to="/asset-management"> Farm Management </router-link></li>
                                 <li><router-link tag="a" to="/agribusiness-academy">Agribusiness Academy </router-link></li>
                                 <li><router-link to="/gallery" tag="a"> Gallery </router-link></li>
                             </ul>

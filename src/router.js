@@ -113,6 +113,13 @@ export default new Router({
         import( "./views/TeamDetails.vue")
     },
     {
+      path: "/team-details/:name",
+      name: "AdvisoryDetails",
+      component: () =>
+        import( "./views/AdvisoryDetails.vue")
+    },
+
+    {
       path: "/404",
       name: "Error",
       component: () => import("./views/Error.vue")

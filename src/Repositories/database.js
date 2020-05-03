@@ -166,7 +166,91 @@ export const database ={
 
             ], 
 
+        advisory: [
+
+                { 
+                    id: '9',
+                    title: '' , 
+                    fullname: 'Jubril Gbajabiamila', 
+                    // position: 'Managing Director', 
+                    featured_thumbnail: '/img/ano.png',
+                    featured_image: '/img/ano.png', //dimension 480px x 515px
+                    info: {
+                        phone: '',
+                        email: '',
+                        address: '',
+                        facebook: '',
+                        twitter: '',
+                        instagram: '',
+                        overview: ' <p>Jubril Gbajabiamila is a graduate of Brown University. He is a company executive and an experienced chairman of the board with a demonstrated history of working in the management consulting industry. </p> <p>He is a strong entrepreneurship professional who has been able to master over the years Negotiation, business planning, energy, risk management and corporate finance. </p>',
+                        overview_image: '',
+                    }
             
+                },
+
+                { 
+                    id: '10',
+                    title: ' ' , 
+                    fullname: 'Boye Oloyede', 
+                    // position: 'Chief Financial Officer', 
+                    featured_thumbnail: '/img/ano.png',
+                    featured_image: '/img/ano.png', //dimension 480px x 515px
+                    info: {
+                        phone: '',
+                        email: '',
+                        address: '',
+                        facebook: '',
+                        twitter: '',
+                        instagram: '',
+                        overview: ' <p>Boye Oloyede is an innovative strategic life coach with a passion for leadership and excellence. He has over 17 year’s career experience in areas of Project management, I.T, People Development and Consultancy. </p> <p>He is a certified I.T specialist, holding certification in project management institute, U.S.A as a project management professional. Boye is one of the brains in the renowned Daystar Leadership Academy, Africa’s premier leadership development school and also, an associate pastor with Daystar Christian Center, Lagos. </p>',
+                        overview_image: '',
+                    }
+            
+                },
+
+                { 
+                    id: '11',
+                    title: ' ' , 
+                    fullname: 'Adejoke Oyeronke', 
+                    // position: 'Chief Operations Officer', 
+                    featured_thumbnail: '/img/ano.png',
+                    featured_image: '/img/ano.png', //dimension 480px x 515px
+                    info: {
+                        phone: '',
+                        email: '',
+                        address: '',
+                        facebook: '',
+                        twitter: '',
+                        instagram: '',
+                        overview: ' <p>Adejoke Oyeronke Araoye is an Associate member of the Institute of personnel Management of Nigeria with 18 years’ experience in Human resources and Administration in different organizations. She obtained her first degree in Finance and Master’s degree in Business Administration.</p> <p> She has a multi-country experience in HR and Administration having worked within the West Coast of Africa, Morocco, middle and Southern Africa. She currently worked with a Swedish Multinational Company in Lagos. </p>',
+                        overview_image: '',
+                    }
+            
+                },
+
+                { 
+                    id: '12',
+                    title: ' ' , 
+                    fullname: 'Professor Lateef Sanni', 
+                    // position: 'International Desk', 
+                    featured_thumbnail: '/img/ano.png',
+                    featured_image: '/img/ano.png', //dimension 480px x 515px
+                    info: {
+                        phone: '',
+                        email: '',
+                        address: '',
+                        facebook: '',
+                        twitter: '',
+                        instagram: '',
+                        overview: ' <p>Professor Sanni Lateef Oladimeji is a researcher and a leader. He joined FUNAAB in 1993 as Assistant Lecturer and became Professor (Food Science and Technology) in 2008. Prof. Sanni has over 20 years experience in research, consultancy and collaborations as a postharvest expert on Tropical Root Crops mostly in West Africa coupled with missions to Latin America, Asia, Europe and other parts of Africa mostly implemented by the International Institute of Tropical Root Crop and Natural Resources Institute, UK, respectively</p> <p>He is the Immediate Past National President, Nigerian Institute of Food Science and Technology. Being passionate about Agriculture, he contributed to the emergence of World Bank Centre of Excellence in Agriculture and sustainable environment in 2013 for the Federal University of Agriculture.</p> <p>He is the Country Manager for Nigeria in a five-Country project. Presently, he is the president of National Society for Tropical Root Crops (ISTRC) and a former Vice Chancellor of Federal University of Agriculture Abeokuta. </p>',                      
+                        overview_image: '',
+                    }
+            
+                },
+
+
+            ], 
+   
             
 
 
@@ -188,7 +272,17 @@ export const database ={
            return result;
 
         },
-        
+        fetchProfileUsingAdvisoryName(fullname){
+
+            //filter array of object based
+            let x = this;
+            var result = x.advisory.filter(function(data, index) {
+                return data.fullname.toLowerCase() == fullname;
+            });
+
+           return result;
+
+        },
 
     }
 

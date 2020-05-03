@@ -40,7 +40,7 @@
                         <div class="section-title with-desc clearfix">
                             <div class="title-header">
                                 <h5>MEET OUR EXPERIENCED TEAM</h5>
-                                <h2 class="title">Our Professional Team</h2>
+                                <h2 class="title">Our Management Team</h2>
                             </div>
                             <div class="title-desc">Our professional team works with decades of combined experience in the fields of business management, operations, finance, client service, and consultancy.</div>
                         </div><!-- section-title end -->
@@ -79,10 +79,60 @@
                             </div>
                         </div><!-- featured-imagebox-team end-->
                     </div>
-                    
-                    
-                  
+
+                    <!-- row -->
+                  </div><!-- row end -->
+
+
+                  <!-- row -->
+                <div class="row">
+                    <div class="col-lg-10 col-md-10">
+                        <!-- section-title -->
+                        <div class="section-title with-desc clearfix">
+                            <div class="title-header">
+                                <h5>MEET OUR EXPERIENCED TEAM</h5>
+                                <h2 class="title">Advisory Board</h2>
+                            </div>
+                            <!-- <div class="title-desc">Our professional team works with decades of combined experience in the fields of business management, operations, finance, client service, and consultancy.</div> -->
+                        </div><!-- section-title end -->
+                    </div>
+                    <div class="col-lg-2 col-md-2"></div>
                 </div><!-- row end -->
+                <!-- row -->
+                <div class="row multi-columns-row ttm-boxes-row-wrapper">
+
+
+                    <div class="ttm-box-col-wrapper col-lg-3 col-md-4 col-xs-12" v-for="(advi, index) in advisory" :key="index+'advi'">
+                        <!-- featured-imagebox-team -->
+                        <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
+                            <div class="featured-thumbnail">
+                                <img class="img-fluid" :src="advi.featured_thumbnail" alt="image"> 
+                            </div> 
+                            <div class="ttm-box-view-overlay">
+                                <div class="featured-iconbox ttm-media-link">
+                                    <router-link :to="{ name: 'AdvisoryDetails', params: { name: convertToSlug(advi.fullname) } }" tag="a">
+                                         <i class="ti ti-plus"></i>
+                                    </router-link>
+                                   
+                                </div>
+                            </div>
+                            <div class="featured-content featured-content-team">
+                                <div class="ttm-team-position">{{ advi.position }}</div>
+                                <div class="featured-title">
+                                    <h5>
+                                         <router-link :to="{ name: 'AdvisoryDetails', params: { name: convertToSlug(advi.fullname) } }" tag="a">
+                                         {{ advi.fullname }}
+                                        </router-link>
+                                    </h5>
+                                   
+                                   
+                                </div>
+                            </div>
+                        </div><!-- featured-imagebox-team end-->
+                    </div>
+
+                    <!-- row -->
+                  </div><!-- row end -->
             </div>
         </section>
         
