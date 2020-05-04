@@ -42,7 +42,7 @@
                                         </div>
                                         <div class="featured-content">
                                             <div class="featured-title">
-                                                <h5>Green Asset Management</h5>
+                                                <h5>Farm Management</h5>
                                             </div>
                                             <div class="featured-desc">
                                                 <p>For something to be a green asset, it must have social, economic, and environmental</p>
@@ -60,7 +60,7 @@
                                         </div>
                                         <div class="featured-content">
                                             <div class="featured-title">
-                                                <h5>Our Products</h5>
+                                                <h5>Farm Estate</h5>
                                             </div>
                                             <div class="featured-desc">
                                                 <p>Our Delmont hospital utilizes state-of-the-art technology and employs a team of true experts.</p>

@@ -15,6 +15,7 @@
     <!--site-main start-->
     <div class="site-main">
         <slot name='main_content'></slot>
+        <!-- <slot name='advisory_board'></slot> -->
     </div><!--site-main end-->
 
 

@@ -68,7 +68,13 @@
                                 </div>
                             </div><!-- section title end -->
                             <div class="mb-30 clearfix">
-                                <p>Put sometghing here</p>
+                                <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor">
+                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Acquire, develop & manage diversified farmland and rural properties for Individuals, corporate organizations & institutions.</span></li>
+                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Livestock & Aquaculture production. </span></li>
+                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Acquire, Partner & Undertake existing Agricultural properties not yielding expected returns.</span></li>
+                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Design, Partner & Implement  Agricultural Community Development projects. </span></li>
+                                 <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Agri Business Academy </span></li>
+                                </ul>
                             </div>
                             <!-- <div class="ttm_sign_image-wrapper mb-25 res-991-mb-0">
                                 <img src="images/dr-sign.png" alt="ttm_single_image-wrapper">
@@ -255,9 +261,9 @@
                             <!-- section title -->
                             <div class="section-title with-desc clearfix">
                                 <div class="title-header">
-                                    <h2 class="title">Philosophy</h2>
+                                    <h2 class="title">Corporate Philosophy</h2>
                                 </div>
-                                <div class="title-desc">Acquisition, development, management of farmland and rural properties.</div>
+                                <div class="title-desc">We acquire, develop, and manage agricultural assets with the aim of satisfying human needs for healthy food. Our approach to farming is designed to improve and preserve environmental quality and the natural resource base. To us, profit is a by-product of the value we add to the life of farming families and the community.</div>
                             </div><!-- section title end -->
                             <div class="row mt_20">
                                 <div class="col-md-4">

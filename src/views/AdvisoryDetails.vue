@@ -135,7 +135,7 @@ import {pick} from "../Repositories/pick.js"
 import { database } from "../Repositories/database"
 
 export default {
-  name: "TeamDetails",
+  name: "AdvisoryDetails",
   mixins: [seo,pick,database],
   components: {
     "app-master" : Master,
@@ -152,8 +152,8 @@ export default {
   created(){
       
      let x  = this; 
-      x.details = x.fetchProfileUsingName(x.name.replace(/-/g,' '));
-    //   x.details = x.fetchProfileUsingAdvisoryName(x.name.replace(/-/g,' '));
+    //   x.details = x.fetchProfileUsingName(x.name.replace(/-/g,' '));
+      x.details = x.fetchProfileUsingAdvisoryName(x.name.replace(/-/g,' '));
       this.seoMetaData(x.name.replace(/-/g,' '), '');
   }
 
