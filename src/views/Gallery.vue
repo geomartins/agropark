@@ -149,12 +149,12 @@
                         <div class="featured-imagebox featured-imagebox-portfolio">
                             <!-- featured-thumbnail -->
                             <div class="featured-thumbnail">
-                                <a href="#"> <img class="img-fluid" src="/img/es.png" alt="image"></a>
+                                <a href="#"> <img class="img-fluid" src="/img/gl.png" alt="image"></a>
                             </div><!-- featured-thumbnail end-->
                             <!-- ttm-box-view-overlay -->
                             <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
-                                    <a class="ttm_prettyphoto ttm_image" title="farmland" data-rel="prettyPhoto" href="/img/es.png">
+                                    <a class="ttm_prettyphoto ttm_image" title="farmland" data-rel="prettyPhoto" href="/img/gl.png">
                                         <i class="ti ti-search"></i>
                                     </a>
                                 </div>
@@ -200,31 +200,7 @@
                             </div><!-- ttm-box-view-overlay end-->
                         </div><!-- featured-imagebox -->
                     </div>
-                     <div class="ttm-box-col-wrapper col-lg-4 col-md-4 col-sm-6">
-                        <!-- featured-imagebox -->
-                        <div class="featured-imagebox featured-imagebox-portfolio">
-                            <!-- featured-thumbnail -->
-                            <div class="featured-thumbnail">
-                                <a href="#"> <img class="img-fluid" src="/img/pl.png" alt="image"></a>
-                            </div><!-- featured-thumbnail end -->
-                            <!-- ttm-box-view-overlay -->
-                            <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
-                                <div class="featured-iconbox ttm-media-link">
-                                    <a class="ttm_prettyphoto ttm_image" title="oilpam" href="/img/pl.png"><i class="ti ti-control-play"></i></a>
-                                </div>
-                                <div class="ttm-box-view-content-inner">
-                                    <div class="featured-content featured-content-portfolio">
-                                        <div class="featured-title">
-                                            <h5><a href="#">OilPalm Farmland</a></h5>
-                                        </div>
-                                        <!-- <span class="category">
-                                            <a href="portfolio-category.html">Orthopedics</a>
-                                        </span> -->
-                                    </div>
-                                </div>
-                            </div><!-- ttm-box-view-overlay end-->
-                        </div><!-- featured-imagebox -->
-                    </div>
+                     
                     <div class="ttm-box-col-wrapper col-lg-4 col-md-4 col-sm-6">
                         <!-- featured-imagebox -->
                         <div class="featured-imagebox featured-imagebox-portfolio">
