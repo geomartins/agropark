@@ -1,4 +1,4 @@
-# project_agropark
+# agropark
 
 ## Project setup
 ```
