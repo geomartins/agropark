@@ -46,12 +46,12 @@
                                                 <div class="ttm-box-view-content-inner">
                                                     <!-- featured-thumbnail -->
                                                     <div class="featured-thumbnail">
-                                                        <a href="#"> <img class="img-fluid" src="images/portfolio/01.jpg" alt="image"></a>
+                                                        <a href="#"> <img class="img-fluid" src="/img/nov.png" alt="image"></a>
                                                     </div><!-- featured-thumbnail end-->
                                                     <!-- ttm-box-view-overlay -->
                                                     <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                                         <div class="featured-iconbox ttm-media-link">
-                                                            <a class="ttm_prettyphoto ttm_image" title="November 2019" data-rel="prettyPhoto" href="images/portfolio/01.jpg">
+                                                            <a class="ttm_prettyphoto ttm_image" title="November 2019" data-rel="prettyPhoto" href="/img/nov.png">
                                                                 <i class="ti ti-search"></i>
                                                             </a>
                                                         </div>
@@ -74,12 +74,12 @@
                                                 <div class="ttm-box-view-content-inner">
                                                     <!-- featured-thumbnail -->
                                                     <div class="featured-thumbnail">
-                                                        <a href="#"> <img class="img-fluid" src="images/portfolio/02.jpg" alt="image"></a>
+                                                        <a href="#"> <img class="img-fluid" src="/img/decem.png" alt="image"></a>
                                                     </div><!-- featured-thumbnail end-->
                                                     <!-- ttm-box-view-overlay -->
                                                     <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                                         <div class="featured-iconbox ttm-media-link">
-                                                            <a class="ttm_prettyphoto ttm_image" title="December 2019" data-rel="prettyPhoto" href="images/portfolio/02.jpg">
+                                                            <a class="ttm_prettyphoto ttm_image" title="December 2019" data-rel="prettyPhoto" href="/img/decem.png">
                                                                 <i class="ti ti-search"></i>
                                                             </a>
                                                         </div>
@@ -102,12 +102,12 @@
                                                 <div class="ttm-box-view-content-inner">
                                                     <!-- featured-thumbnail -->
                                                     <div class="featured-thumbnail">
-                                                        <a href="#"> <img class="img-fluid" src="images/portfolio/03.jpg" alt="image"></a>
+                                                        <a href="#"> <img class="img-fluid" src="/img/jan.png" alt="image"></a>
                                                     </div><!-- featured-thumbnail end-->
                                                     <!-- ttm-box-view-overlay -->
                                                     <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                                         <div class="featured-iconbox ttm-media-link">
-                                                            <a class="ttm_prettyphoto ttm_image" title="January 2020" data-rel="prettyPhoto" href="images/portfolio/03.jpg">
+                                                            <a class="ttm_prettyphoto ttm_image" title="January 2020" data-rel="prettyPhoto" href="/img/jan.png">
                                                                 <i class="ti ti-search"></i>
                                                             </a>
                                                         </div>
