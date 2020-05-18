@@ -121,12 +121,12 @@
                         <div class="featured-imagebox featured-imagebox-portfolio">
                             <!-- featured-thumbnail -->
                             <div class="featured-thumbnail">
-                                <a href="#"> <img class="img-fluid" src="/img/pon.png" alt="image"></a>
+                                <a href="#"> <img class="img-fluid" src="/img/fishg.png" alt="image"></a>
                             </div><!-- featured-thumbnail end-->
                             <!-- ttm-box-view-overlay -->
                             <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
-                                    <a class="ttm_prettyphoto ttm_image" title="fish pond" data-rel="prettyPhoto" href="/img/pon.png">
+                                    <a class="ttm_prettyphoto ttm_image" title="fish pond" data-rel="prettyPhoto" href="/img/fishg.png">
                                         <i class="ti ti-search"></i>
                                     </a>
                                 </div>
@@ -257,6 +257,35 @@
                             </div><!-- ttm-box-view-overlay end-->
                         </div><!-- featured-imagebox -->
                     </div>
+                    <div class="ttm-box-col-wrapper col-lg-4 col-md-4 col-sm-6">
+                        <!-- featured-imagebox -->
+                        <div class="featured-imagebox featured-imagebox-portfolio">
+                            <!-- featured-thumbnail -->
+                            <div class="featured-thumbnail">
+                                <a href="#"> <img class="img-fluid" src="/img/comm.png" alt="image"></a>
+                            </div><!-- featured-thumbnail end -->
+                            <!-- ttm-box-view-overlay -->
+                            <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
+                                <div class="featured-iconbox ttm-media-link">
+                                    <a class="ttm_prettyphoto ttm_image" title="Commissioner" data-rel="prettyPhoto" href="/img/comm.png">
+                                        <i class="ti ti-search"></i>
+                                    </a>
+                                </div>
+                                <div class="ttm-box-view-content-inner">
+                                    <div class="featured-content featured-content-portfolio">
+                                        <div class="featured-title">
+                                            <h5><a href="#">Commissioner of Agriculture at the Park</a></h5>
+                                        </div>
+                                        <!-- <span class="category">
+                                            <a href="portfolio-category.html">Cardiology</a>,
+                                            <a href="portfolio-category.html">Oncology</a>
+                                        </span> -->
+                                    </div>
+                                </div>
+                            </div><!-- ttm-box-view-overlay end-->
+                        </div><!-- featured-imagebox -->
+                    </div>
+                    
                 </div><!-- row end -->
             </div>
         </section>

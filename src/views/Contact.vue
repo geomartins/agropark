@@ -99,15 +99,15 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <label>Full Name *</label>
-                                        <span class="text-input"><input name="your-name" type="text" value="" placeholder="" required="required"></span>
+                                        <span class="text-input"><input  v-model="User.name" type="text" value="" placeholder="" required="required" ></span>
                                     </div>
                                     <div class="col-md-6">
                                         <label>Your email *</label>
-                                        <span class="text-input"><input name="email" type="email" value="" placeholder="" required="required"></span>
+                                        <span class="text-input"><input v-model="User.email" type="email" value="" placeholder="" required="required"></span>
                                     </div>
                                     <div class="col-md-6">
                                         <label>Your Phone *</label>
-                                        <span class="text-input"><input name="phone" type="text" value="" placeholder="" required="required"></span>
+                                        <span class="text-input"><input v-model="User.telephone" type="text" value="" placeholder="" required="required"></span>
                                     </div>
                                     <div class="col-md-6">
                                         <label>I'm interested in *</label>
@@ -115,7 +115,7 @@
                                     </div>
                                     <div class="col-md-12">
                                         <label>Your Message *</label>
-                                        <span class="text-input"><textarea name="message" cols="40" rows="6" placeholder="" required="required"></textarea></span>
+                                        <span class="text-input"><textarea v-model="message" cols="40" rows="6" placeholder="" required="required"></textarea></span>
                                     </div>
                                 </div>
                                 <input type="submit" value="SEND-MESSAGE" class="submit ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor">
@@ -128,6 +128,12 @@
                             <div class="title-header">
                                 <h2 class="title">Follow Us</h2>
                             </div>
+
+                            <ul>
+                                <li v-for="(contact_history, index) in contact_histories " :key="index">
+                                    {{ contact_history.name }} - {{ contact_history.telephone}}
+                                </li>
+                            </ul>
                         </div>
                         <!-- section-title end -->
                         <div class="pt-25 pb-40 res-991-pb-10 res-991-mt-50">
@@ -193,6 +199,7 @@
 import Master from "@/components/Master.vue"
 import Breadcrumb from "@/components/Breadcrumb.vue"
 import { seo } from "../Repositories/seo"
+import { fb, db } from "../firebase"
 
 export default {
   name: "Faq",
@@ -201,6 +208,24 @@ export default {
     "app-master" : Master,
     "app-breadcrumb" : Breadcrumb
 
+  },
+  data(){
+      return{
+          User:{
+              email:' ',
+              telephone:' ',
+              name:' ',
+          }
+        
+      }
+  },
+   firestore () {
+    return {
+        // Collection
+        contact_histories: db.collection('contact_histories'),
+        // Doc
+        //ford: firestore.collection('cars').doc('ford')
+    }
   },
   created(){
       this.seoMetaData('Contact Us', '');
