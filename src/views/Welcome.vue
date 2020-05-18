@@ -306,19 +306,19 @@
                         <div class="featured-imagebox featured-imagebox-portfolio">
                             <!-- featured-thumbnail -->
                             <div class="featured-thumbnail">
-                                <a href="#"> <img class="img-fluid" src="/img/fam.png" alt="image"></a>
+                                <a href="#"> <img class="img-fluid" src="/img/up.png" alt="image"></a>
                             </div><!-- featured-thumbnail end-->
                             <!-- ttm-box-view-overlay -->
                             <div class="ttm-box-view-overlay ttm-portfolio-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
-                                    <a class="ttm_prettyphoto ttm_image" title="Farm Estate" data-rel="prettyPhoto" href="/img/fam.png">
+                                    <a class="ttm_prettyphoto ttm_image" title="Workers" data-rel="prettyPhoto" href="/img/up.png">
                                         <i class="ti ti-search"></i>
                                     </a>
                                 </div>
                                 <div class="ttm-box-view-content-inner">
                                     <div class="featured-content featured-content-portfolio">
                                         <div class="featured-title">
-                                            <h5><a href="#">Farmland Estate</a></h5>
+                                            <h5><a href="#">Workers on the field</a></h5>
                                         </div>
                                         <!-- <span class="category">
                                             <a href="#">Cardiology</a>,
